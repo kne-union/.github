@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.40](https://github.com/kne-union/components-view/releases/tag/0.1.40) in [kne-union/components-view](https://github.com/kne-union/components-view)
-2. 🎉 Merged PR [#90](https://github.com/kne-union/components-view/pull/90) in [kne-union/components-view](https://github.com/kne-union/components-view)
-3. 💪 Opened PR [#90](https://github.com/kne-union/components-view/pull/90) in [kne-union/components-view](https://github.com/kne-union/components-view)
-4. 🔒 Closed issue [#76](https://github.com/kne-union/components-view/issues/76) in [kne-union/components-view](https://github.com/kne-union/components-view)
-5. 🗣 Commented on [#76](https://github.com/kne-union/components-view/issues/76#issuecomment-2375793113) in [kne-union/components-view](https://github.com/kne-union/components-view)
+1. 🎉 Merged PR [#54](https://github.com/kne-union/npm-tools/pull/54) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
+2. 💪 Opened PR [#54](https://github.com/kne-union/npm-tools/pull/54) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
+3. 🎉 Merged PR [#53](https://github.com/kne-union/npm-tools/pull/53) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
+4. 💪 Opened PR [#53](https://github.com/kne-union/npm-tools/pull/53) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
+5. 🚀 Published release [0.1.40](https://github.com/kne-union/components-view/releases/tag/0.1.40) in [kne-union/components-view](https://github.com/kne-union/components-view)
 <!--END_SECTION:activity-->
 
 ---
