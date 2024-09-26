@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/kne-union/test-flow/issues/22#issuecomment-2375775376) in [kne-union/test-flow](https://github.com/kne-union/test-flow)
-2. 🔒 Closed issue [#22](https://github.com/kne-union/test-flow/issues/22) in [kne-union/test-flow](https://github.com/kne-union/test-flow)
-3. 🎉 Merged PR [#23](https://github.com/kne-union/test-flow/pull/23) in [kne-union/test-flow](https://github.com/kne-union/test-flow)
-4. 💪 Opened PR [#23](https://github.com/kne-union/test-flow/pull/23) in [kne-union/test-flow](https://github.com/kne-union/test-flow)
-5. 🗣 Commented on [#22](https://github.com/kne-union/test-flow/issues/22#issuecomment-2375773456) in [kne-union/test-flow](https://github.com/kne-union/test-flow)
+1. 🚀 Published release [0.1.40](https://github.com/kne-union/components-view/releases/tag/0.1.40) in [kne-union/components-view](https://github.com/kne-union/components-view)
+2. 🎉 Merged PR [#90](https://github.com/kne-union/components-view/pull/90) in [kne-union/components-view](https://github.com/kne-union/components-view)
+3. 💪 Opened PR [#90](https://github.com/kne-union/components-view/pull/90) in [kne-union/components-view](https://github.com/kne-union/components-view)
+4. 🔒 Closed issue [#76](https://github.com/kne-union/components-view/issues/76) in [kne-union/components-view](https://github.com/kne-union/components-view)
+5. 🗣 Commented on [#76](https://github.com/kne-union/components-view/issues/76#issuecomment-2375793113) in [kne-union/components-view](https://github.com/kne-union/components-view)
 <!--END_SECTION:activity-->
 
 ---
