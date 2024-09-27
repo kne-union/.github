@@ -17,4 +17,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           TARGET_FILE: ./profile/README.md
-          MAX_LINES: 10
