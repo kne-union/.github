@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.0](https://github.com/kne-union/template-example/releases/tag/0.1.0) in [kne-union/template-example](https://github.com/kne-union/template-example)
-2. 🎉 Merged PR [#1](https://github.com/kne-union/template-example/pull/1) in [kne-union/template-example](https://github.com/kne-union/template-example)
-3. 💪 Opened PR [#1](https://github.com/kne-union/template-example/pull/1) in [kne-union/template-example](https://github.com/kne-union/template-example)
-4. 🚀 Published release [0.1.0](https://github.com/kne-union/template-components-biz/releases/tag/0.1.0) in [kne-union/template-components-biz](https://github.com/kne-union/template-components-biz)
-5. 🎉 Merged PR [#1](https://github.com/kne-union/template-components-biz/pull/1) in [kne-union/template-components-biz](https://github.com/kne-union/template-components-biz)
+1. 🚀 Published release [2.1.0-alpha.1](https://github.com/kne-union/modules-dev/releases/tag/2.1.0-alpha.1) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
+2. 🎉 Merged PR [#85](https://github.com/kne-union/modules-dev/pull/85) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
+3. 💪 Opened PR [#85](https://github.com/kne-union/modules-dev/pull/85) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
+4. 🚀 Published release [2.1.0-alpha.0](https://github.com/kne-union/modules-dev/releases/tag/2.1.0-alpha.0) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
+5. 🎉 Merged PR [#84](https://github.com/kne-union/modules-dev/pull/84) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
 <!--END_SECTION:activity-->
 
 ---
