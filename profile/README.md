@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.0](https://github.com/kne-union/template-components-biz/releases/tag/0.1.0) in [kne-union/template-components-biz](https://github.com/kne-union/template-components-biz)
-2. 🎉 Merged PR [#1](https://github.com/kne-union/template-components-biz/pull/1) in [kne-union/template-components-biz](https://github.com/kne-union/template-components-biz)
-3. 💪 Opened PR [#1](https://github.com/kne-union/template-components-biz/pull/1) in [kne-union/template-components-biz](https://github.com/kne-union/template-components-biz)
-4. 🚀 Published release [0.1.0](https://github.com/kne-union/template-components/releases/tag/0.1.0) in [kne-union/template-components](https://github.com/kne-union/template-components)
-5. 🎉 Merged PR [#1](https://github.com/kne-union/template-components/pull/1) in [kne-union/template-components](https://github.com/kne-union/template-components)
+1. 🚀 Published release [0.1.0](https://github.com/kne-union/template-example/releases/tag/0.1.0) in [kne-union/template-example](https://github.com/kne-union/template-example)
+2. 🎉 Merged PR [#1](https://github.com/kne-union/template-example/pull/1) in [kne-union/template-example](https://github.com/kne-union/template-example)
+3. 💪 Opened PR [#1](https://github.com/kne-union/template-example/pull/1) in [kne-union/template-example](https://github.com/kne-union/template-example)
+4. 🚀 Published release [0.1.0](https://github.com/kne-union/template-components-biz/releases/tag/0.1.0) in [kne-union/template-components-biz](https://github.com/kne-union/template-components-biz)
+5. 🎉 Merged PR [#1](https://github.com/kne-union/template-components-biz/pull/1) in [kne-union/template-components-biz](https://github.com/kne-union/template-components-biz)
 <!--END_SECTION:activity-->
 
 ---
