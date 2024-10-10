@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.2.49](https://github.com/kne-union/components-core/releases/tag/0.2.49) in [kne-union/components-core](https://github.com/kne-union/components-core)
-2. 🎉 Merged PR [#296](https://github.com/kne-union/components-core/pull/296) in [kne-union/components-core](https://github.com/kne-union/components-core)
-3. 🔒 Closed issue [#294](https://github.com/kne-union/components-core/issues/294) in [kne-union/components-core](https://github.com/kne-union/components-core)
-4. 🗣 Commented on [#294](https://github.com/kne-union/components-core/issues/294#issuecomment-2404137458) in [kne-union/components-core](https://github.com/kne-union/components-core)
-5. 💪 Opened PR [#296](https://github.com/kne-union/components-core/pull/296) in [kne-union/components-core](https://github.com/kne-union/components-core)
+1. 🚀 Published release [0.1.7](https://github.com/kne-union/template-libs/releases/tag/0.1.7) in [kne-union/template-libs](https://github.com/kne-union/template-libs)
+2. 🎉 Merged PR [#8](https://github.com/kne-union/template-libs/pull/8) in [kne-union/template-libs](https://github.com/kne-union/template-libs)
+3. 💪 Opened PR [#8](https://github.com/kne-union/template-libs/pull/8) in [kne-union/template-libs](https://github.com/kne-union/template-libs)
+4. 🚀 Published release [0.1.6](https://github.com/kne-union/template-libs/releases/tag/0.1.6) in [kne-union/template-libs](https://github.com/kne-union/template-libs)
+5. 🎉 Merged PR [#7](https://github.com/kne-union/template-libs/pull/7) in [kne-union/template-libs](https://github.com/kne-union/template-libs)
 <!--END_SECTION:activity-->
 
 ---
