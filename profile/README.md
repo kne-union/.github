@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.1.0](https://github.com/kne-union/modules-dev/releases/tag/2.1.0) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
-2. 🎉 Merged PR [#86](https://github.com/kne-union/modules-dev/pull/86) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
-3. 💪 Opened PR [#86](https://github.com/kne-union/modules-dev/pull/86) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
-4. 🚀 Published release [2.1.0-alpha.1](https://github.com/kne-union/modules-dev/releases/tag/2.1.0-alpha.1) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
-5. 🎉 Merged PR [#85](https://github.com/kne-union/modules-dev/pull/85) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
+1. 🚀 Published release [2.1.1](https://github.com/kne-union/modules-dev/releases/tag/2.1.1) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
+2. 🎉 Merged PR [#87](https://github.com/kne-union/modules-dev/pull/87) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
+3. 💪 Opened PR [#87](https://github.com/kne-union/modules-dev/pull/87) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
+4. 🚀 Published release [2.1.0](https://github.com/kne-union/modules-dev/releases/tag/2.1.0) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
+5. 🎉 Merged PR [#86](https://github.com/kne-union/modules-dev/pull/86) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
 <!--END_SECTION:activity-->
 
 ---
