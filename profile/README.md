@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.14](https://github.com/kne-union/md-doc/releases/tag/0.1.14) in [kne-union/md-doc](https://github.com/kne-union/md-doc)
-2. 🎉 Merged PR [#12](https://github.com/kne-union/md-doc/pull/12) in [kne-union/md-doc](https://github.com/kne-union/md-doc)
-3. 💪 Opened PR [#12](https://github.com/kne-union/md-doc/pull/12) in [kne-union/md-doc](https://github.com/kne-union/md-doc)
-4. 🎉 Merged PR [#4](https://github.com/kne-union/fetch-npm-package/pull/4) in [kne-union/fetch-npm-package](https://github.com/kne-union/fetch-npm-package)
-5. 💪 Opened PR [#4](https://github.com/kne-union/fetch-npm-package/pull/4) in [kne-union/fetch-npm-package](https://github.com/kne-union/fetch-npm-package)
+1. 🚀 Published release [1.1.0](https://github.com/kne-union/global-context/releases/tag/1.1.0) in [kne-union/global-context](https://github.com/kne-union/global-context)
+2. 🎉 Merged PR [#4](https://github.com/kne-union/global-context/pull/4) in [kne-union/global-context](https://github.com/kne-union/global-context)
+3. 💪 Opened PR [#4](https://github.com/kne-union/global-context/pull/4) in [kne-union/global-context](https://github.com/kne-union/global-context)
+4. 🚀 Published release [0.1.14](https://github.com/kne-union/md-doc/releases/tag/0.1.14) in [kne-union/md-doc](https://github.com/kne-union/md-doc)
+5. 🎉 Merged PR [#12](https://github.com/kne-union/md-doc/pull/12) in [kne-union/md-doc](https://github.com/kne-union/md-doc)
 <!--END_SECTION:activity-->
 
 ---
