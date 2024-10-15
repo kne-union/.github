@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.0](https://github.com/kne-union/super-select/releases/tag/0.1.0) in [kne-union/super-select](https://github.com/kne-union/super-select)
-2. 🎉 Merged PR [#1](https://github.com/kne-union/super-select/pull/1) in [kne-union/super-select](https://github.com/kne-union/super-select)
-3. 💪 Opened PR [#1](https://github.com/kne-union/super-select/pull/1) in [kne-union/super-select](https://github.com/kne-union/super-select)
-4. 🚀 Published release [0.1.0](https://github.com/kne-union/search-input/releases/tag/0.1.0) in [kne-union/search-input](https://github.com/kne-union/search-input)
-5. 🎉 Merged PR [#1](https://github.com/kne-union/search-input/pull/1) in [kne-union/search-input](https://github.com/kne-union/search-input)
+1. 🚀 Published release [0.1.1](https://github.com/kne-union/super-select/releases/tag/0.1.1) in [kne-union/super-select](https://github.com/kne-union/super-select)
+2. 🎉 Merged PR [#2](https://github.com/kne-union/super-select/pull/2) in [kne-union/super-select](https://github.com/kne-union/super-select)
+3. 💪 Opened PR [#2](https://github.com/kne-union/super-select/pull/2) in [kne-union/super-select](https://github.com/kne-union/super-select)
+4. 🗣 Commented on [#297](https://github.com/kne-union/components-core/issues/297#issuecomment-2412691014) in [kne-union/components-core](https://github.com/kne-union/components-core)
+5. ❗ Opened issue [#297](https://github.com/kne-union/components-core/issues/297) in [kne-union/components-core](https://github.com/kne-union/components-core)
 <!--END_SECTION:activity-->
 
 ---
