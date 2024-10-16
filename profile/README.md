@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/kne-union/is-empty/releases/tag/1.0.0) in [kne-union/is-empty](https://github.com/kne-union/is-empty)
-2. 🎉 Merged PR [#1](https://github.com/kne-union/is-empty/pull/1) in [kne-union/is-empty](https://github.com/kne-union/is-empty)
-3. 💪 Opened PR [#1](https://github.com/kne-union/is-empty/pull/1) in [kne-union/is-empty](https://github.com/kne-union/is-empty)
-4. 🚀 Published release [0.1.4](https://github.com/kne-union/components-biz/releases/tag/0.1.4) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
-5. 🎉 Merged PR [#5](https://github.com/kne-union/components-biz/pull/5) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
+1. 🚀 Published release [1.0.1](https://github.com/kne-union/is-empty/releases/tag/1.0.1) in [kne-union/is-empty](https://github.com/kne-union/is-empty)
+2. 🎉 Merged PR [#2](https://github.com/kne-union/is-empty/pull/2) in [kne-union/is-empty](https://github.com/kne-union/is-empty)
+3. 💪 Opened PR [#2](https://github.com/kne-union/is-empty/pull/2) in [kne-union/is-empty](https://github.com/kne-union/is-empty)
+4. 🚀 Published release [1.0.0](https://github.com/kne-union/is-empty/releases/tag/1.0.0) in [kne-union/is-empty](https://github.com/kne-union/is-empty)
+5. 🎉 Merged PR [#1](https://github.com/kne-union/is-empty/pull/1) in [kne-union/is-empty](https://github.com/kne-union/is-empty)
 <!--END_SECTION:activity-->
 
 ---
