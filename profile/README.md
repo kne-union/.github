@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.6](https://github.com/kne-union/scroll-loader/releases/tag/0.1.6) in [kne-union/scroll-loader](https://github.com/kne-union/scroll-loader)
-2. 🎉 Merged PR [#7](https://github.com/kne-union/scroll-loader/pull/7) in [kne-union/scroll-loader](https://github.com/kne-union/scroll-loader)
-3. 💪 Opened PR [#7](https://github.com/kne-union/scroll-loader/pull/7) in [kne-union/scroll-loader](https://github.com/kne-union/scroll-loader)
-4. 🚀 Published release [0.1.11](https://github.com/kne-union/super-select/releases/tag/0.1.11) in [kne-union/super-select](https://github.com/kne-union/super-select)
-5. 🎉 Merged PR [#12](https://github.com/kne-union/super-select/pull/12) in [kne-union/super-select](https://github.com/kne-union/super-select)
+1. 🚀 Published release [0.1.12](https://github.com/kne-union/super-select/releases/tag/0.1.12) in [kne-union/super-select](https://github.com/kne-union/super-select)
+2. 🚀 Published release [0.1.6](https://github.com/kne-union/info-page/releases/tag/0.1.6) in [kne-union/info-page](https://github.com/kne-union/info-page)
+3. 🎉 Merged PR [#13](https://github.com/kne-union/super-select/pull/13) in [kne-union/super-select](https://github.com/kne-union/super-select)
+4. 💪 Opened PR [#13](https://github.com/kne-union/super-select/pull/13) in [kne-union/super-select](https://github.com/kne-union/super-select)
+5. 🎉 Merged PR [#15](https://github.com/kne-union/info-page/pull/15) in [kne-union/info-page](https://github.com/kne-union/info-page)
 <!--END_SECTION:activity-->
 
 ---
