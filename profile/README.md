@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/kne-union/components-biz/pull/25) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
-2. 💪 Opened PR [#25](https://github.com/kne-union/components-biz/pull/25) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
-3. 🚀 Published release [0.2.60](https://github.com/kne-union/components-core/releases/tag/0.2.60) in [kne-union/components-core](https://github.com/kne-union/components-core)
-4. 🎉 Merged PR [#24](https://github.com/kne-union/components-biz/pull/24) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
-5. 💪 Opened PR [#24](https://github.com/kne-union/components-biz/pull/24) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
+1. 🎉 Merged PR [#26](https://github.com/kne-union/components-biz/pull/26) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
+2. 💪 Opened PR [#26](https://github.com/kne-union/components-biz/pull/26) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
+3. 🎉 Merged PR [#25](https://github.com/kne-union/components-biz/pull/25) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
+4. 💪 Opened PR [#25](https://github.com/kne-union/components-biz/pull/25) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
+5. 🚀 Published release [0.2.60](https://github.com/kne-union/components-core/releases/tag/0.2.60) in [kne-union/components-core](https://github.com/kne-union/components-core)
 <!--END_SECTION:activity-->
 
 ---
