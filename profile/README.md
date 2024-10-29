@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.3](https://github.com/kne-union/format-document-builder/releases/tag/0.1.3) in [kne-union/format-document-builder](https://github.com/kne-union/format-document-builder)
-2. 🎉 Merged PR [#4](https://github.com/kne-union/format-document-builder/pull/4) in [kne-union/format-document-builder](https://github.com/kne-union/format-document-builder)
-3. 💪 Opened PR [#4](https://github.com/kne-union/format-document-builder/pull/4) in [kne-union/format-document-builder](https://github.com/kne-union/format-document-builder)
-4. 🎉 Merged PR [#30](https://github.com/kne-union/components-biz/pull/30) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
-5. 💪 Opened PR [#30](https://github.com/kne-union/components-biz/pull/30) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
+1. 🚀 Published release [0.1.6](https://github.com/kne-union/format-document-builder/releases/tag/0.1.6) in [kne-union/format-document-builder](https://github.com/kne-union/format-document-builder)
+2. 🚀 Published release [0.1.5](https://github.com/kne-union/format-document-builder/releases/tag/0.1.5) in [kne-union/format-document-builder](https://github.com/kne-union/format-document-builder)
+3. 🎉 Merged PR [#7](https://github.com/kne-union/format-document-builder/pull/7) in [kne-union/format-document-builder](https://github.com/kne-union/format-document-builder)
+4. 💪 Opened PR [#7](https://github.com/kne-union/format-document-builder/pull/7) in [kne-union/format-document-builder](https://github.com/kne-union/format-document-builder)
+5. 🎉 Merged PR [#6](https://github.com/kne-union/format-document-builder/pull/6) in [kne-union/format-document-builder](https://github.com/kne-union/format-document-builder)
 <!--END_SECTION:activity-->
 
 ---
