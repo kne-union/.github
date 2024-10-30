@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.10](https://github.com/kne-union/format-document-builder/releases/tag/0.1.10) in [kne-union/format-document-builder](https://github.com/kne-union/format-document-builder)
-2. 🎉 Merged PR [#12](https://github.com/kne-union/format-document-builder/pull/12) in [kne-union/format-document-builder](https://github.com/kne-union/format-document-builder)
-3. 💪 Opened PR [#12](https://github.com/kne-union/format-document-builder/pull/12) in [kne-union/format-document-builder](https://github.com/kne-union/format-document-builder)
-4. 🚀 Published release [0.1.9](https://github.com/kne-union/format-document-builder/releases/tag/0.1.9) in [kne-union/format-document-builder](https://github.com/kne-union/format-document-builder)
-5. 🎉 Merged PR [#11](https://github.com/kne-union/format-document-builder/pull/11) in [kne-union/format-document-builder](https://github.com/kne-union/format-document-builder)
+1. 🎉 Merged PR [#33](https://github.com/kne-union/components-biz/pull/33) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
+2. 💪 Opened PR [#33](https://github.com/kne-union/components-biz/pull/33) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
+3. 🚀 Published release [0.2.62](https://github.com/kne-union/components-core/releases/tag/0.2.62) in [kne-union/components-core](https://github.com/kne-union/components-core)
+4. 🎉 Merged PR [#326](https://github.com/kne-union/components-core/pull/326) in [kne-union/components-core](https://github.com/kne-union/components-core)
+5. 💪 Opened PR [#326](https://github.com/kne-union/components-core/pull/326) in [kne-union/components-core](https://github.com/kne-union/components-core)
 <!--END_SECTION:activity-->
 
 ---
