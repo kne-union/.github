@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.0-alpha.6](https://github.com/kne-union/react-form-plus/releases/tag/0.1.0-alpha.6) in [kne-union/react-form-plus](https://github.com/kne-union/react-form-plus)
-2. 🎉 Merged PR [#6](https://github.com/kne-union/react-form-plus/pull/6) in [kne-union/react-form-plus](https://github.com/kne-union/react-form-plus)
-3. 💪 Opened PR [#6](https://github.com/kne-union/react-form-plus/pull/6) in [kne-union/react-form-plus](https://github.com/kne-union/react-form-plus)
-4. 🎉 Merged PR [#46](https://github.com/kne-union/components-biz/pull/46) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
-5. 💪 Opened PR [#46](https://github.com/kne-union/components-biz/pull/46) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
+1. 🎉 Merged PR [#47](https://github.com/kne-union/components-biz/pull/47) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
+2. 💪 Opened PR [#47](https://github.com/kne-union/components-biz/pull/47) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
+3. 🚀 Published release [0.1.0-alpha.6](https://github.com/kne-union/react-form-plus/releases/tag/0.1.0-alpha.6) in [kne-union/react-form-plus](https://github.com/kne-union/react-form-plus)
+4. 🎉 Merged PR [#6](https://github.com/kne-union/react-form-plus/pull/6) in [kne-union/react-form-plus](https://github.com/kne-union/react-form-plus)
+5. 💪 Opened PR [#6](https://github.com/kne-union/react-form-plus/pull/6) in [kne-union/react-form-plus](https://github.com/kne-union/react-form-plus)
 <!--END_SECTION:activity-->
 
 ---
