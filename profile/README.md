@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/kne-union/components-biz/pull/55) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
-2. 💪 Opened PR [#55](https://github.com/kne-union/components-biz/pull/55) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
-3. 🚀 Published release [0.1.0](https://github.com/kne-union/form-info/releases/tag/0.1.0) in [kne-union/form-info](https://github.com/kne-union/form-info)
-4. 🎉 Merged PR [#4](https://github.com/kne-union/form-info/pull/4) in [kne-union/form-info](https://github.com/kne-union/form-info)
-5. 💪 Opened PR [#4](https://github.com/kne-union/form-info/pull/4) in [kne-union/form-info](https://github.com/kne-union/form-info)
+1. 🎉 Merged PR [#29](https://github.com/kne-union/react-fetch/pull/29) in [kne-union/react-fetch](https://github.com/kne-union/react-fetch)
+2. 💪 Opened PR [#29](https://github.com/kne-union/react-fetch/pull/29) in [kne-union/react-fetch](https://github.com/kne-union/react-fetch)
+3. 🚀 Published release [1.1.2](https://github.com/kne-union/global-context/releases/tag/1.1.2) in [kne-union/global-context](https://github.com/kne-union/global-context)
+4. 🎉 Merged PR [#6](https://github.com/kne-union/global-context/pull/6) in [kne-union/global-context](https://github.com/kne-union/global-context)
+5. 💪 Opened PR [#6](https://github.com/kne-union/global-context/pull/6) in [kne-union/global-context](https://github.com/kne-union/global-context)
 <!--END_SECTION:activity-->
 
 ---
