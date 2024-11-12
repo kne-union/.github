@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/kne-union/react-fetch/pull/29) in [kne-union/react-fetch](https://github.com/kne-union/react-fetch)
-2. 💪 Opened PR [#29](https://github.com/kne-union/react-fetch/pull/29) in [kne-union/react-fetch](https://github.com/kne-union/react-fetch)
-3. 🚀 Published release [1.1.2](https://github.com/kne-union/global-context/releases/tag/1.1.2) in [kne-union/global-context](https://github.com/kne-union/global-context)
-4. 🎉 Merged PR [#6](https://github.com/kne-union/global-context/pull/6) in [kne-union/global-context](https://github.com/kne-union/global-context)
-5. 💪 Opened PR [#6](https://github.com/kne-union/global-context/pull/6) in [kne-union/global-context](https://github.com/kne-union/global-context)
+1. 🚀 Published release [1.5.5](https://github.com/kne-union/react-fetch/releases/tag/1.5.5) in [kne-union/react-fetch](https://github.com/kne-union/react-fetch)
+2. 🎉 Merged PR [#29](https://github.com/kne-union/react-fetch/pull/29) in [kne-union/react-fetch](https://github.com/kne-union/react-fetch)
+3. 💪 Opened PR [#29](https://github.com/kne-union/react-fetch/pull/29) in [kne-union/react-fetch](https://github.com/kne-union/react-fetch)
+4. 🚀 Published release [1.1.2](https://github.com/kne-union/global-context/releases/tag/1.1.2) in [kne-union/global-context](https://github.com/kne-union/global-context)
+5. 🎉 Merged PR [#6](https://github.com/kne-union/global-context/pull/6) in [kne-union/global-context](https://github.com/kne-union/global-context)
 <!--END_SECTION:activity-->
 
 ---
