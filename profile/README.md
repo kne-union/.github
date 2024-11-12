@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/kne-union/components-biz/pull/54) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
-2. 💪 Opened PR [#54](https://github.com/kne-union/components-biz/pull/54) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
-3. 🎉 Merged PR [#53](https://github.com/kne-union/components-biz/pull/53) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
-4. 💪 Opened PR [#53](https://github.com/kne-union/components-biz/pull/53) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
-5. 🎉 Merged PR [#52](https://github.com/kne-union/components-biz/pull/52) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
+1. 🚀 Published release [4.0.1](https://github.com/kne-union/react-form-antd/releases/tag/4.0.1) in [kne-union/react-form-antd](https://github.com/kne-union/react-form-antd)
+2. 🎉 Merged PR [#90](https://github.com/kne-union/react-form-antd/pull/90) in [kne-union/react-form-antd](https://github.com/kne-union/react-form-antd)
+3. 💪 Opened PR [#90](https://github.com/kne-union/react-form-antd/pull/90) in [kne-union/react-form-antd](https://github.com/kne-union/react-form-antd)
+4. 🚀 Published release [3.0.2](https://github.com/kne-union/react-form-helper/releases/tag/3.0.2) in [kne-union/react-form-helper](https://github.com/kne-union/react-form-helper)
+5. 🎉 Merged PR [#21](https://github.com/kne-union/react-form-helper/pull/21) in [kne-union/react-form-helper](https://github.com/kne-union/react-form-helper)
 <!--END_SECTION:activity-->
 
 ---
