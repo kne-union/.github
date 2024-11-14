@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.0](https://github.com/kne-union/react-file/releases/tag/0.1.0) in [kne-union/react-file](https://github.com/kne-union/react-file)
-2. 🎉 Merged PR [#1](https://github.com/kne-union/react-file/pull/1) in [kne-union/react-file](https://github.com/kne-union/react-file)
-3. 💪 Opened PR [#1](https://github.com/kne-union/react-file/pull/1) in [kne-union/react-file](https://github.com/kne-union/react-file)
-4. 🎉 Merged PR [#4](https://github.com/kne-union/react-file-type/pull/4) in [kne-union/react-file-type](https://github.com/kne-union/react-file-type)
-5. 💪 Opened PR [#4](https://github.com/kne-union/react-file-type/pull/4) in [kne-union/react-file-type](https://github.com/kne-union/react-file-type)
+1. 🚀 Published release [0.1.1](https://github.com/kne-union/template-example/releases/tag/0.1.1) in [kne-union/template-example](https://github.com/kne-union/template-example)
+2. 🎉 Merged PR [#2](https://github.com/kne-union/template-example/pull/2) in [kne-union/template-example](https://github.com/kne-union/template-example)
+3. 💪 Opened PR [#2](https://github.com/kne-union/template-example/pull/2) in [kne-union/template-example](https://github.com/kne-union/template-example)
+4. 🚀 Published release [0.1.0](https://github.com/kne-union/react-file/releases/tag/0.1.0) in [kne-union/react-file](https://github.com/kne-union/react-file)
+5. 🎉 Merged PR [#1](https://github.com/kne-union/react-file/pull/1) in [kne-union/react-file](https://github.com/kne-union/react-file)
 <!--END_SECTION:activity-->
 
 ---
