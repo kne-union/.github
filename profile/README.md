@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.6](https://github.com/kne-union/react-file/releases/tag/0.1.6) in [kne-union/react-file](https://github.com/kne-union/react-file)
-2. 🎉 Merged PR [#7](https://github.com/kne-union/react-file/pull/7) in [kne-union/react-file](https://github.com/kne-union/react-file)
-3. 💪 Opened PR [#7](https://github.com/kne-union/react-file/pull/7) in [kne-union/react-file](https://github.com/kne-union/react-file)
-4. 🎉 Merged PR [#58](https://github.com/kne-union/components-biz/pull/58) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
-5. 💪 Opened PR [#58](https://github.com/kne-union/components-biz/pull/58) in [kne-union/components-biz](https://github.com/kne-union/components-biz)
+1. 🚀 Published release [0.1.7](https://github.com/kne-union/react-file/releases/tag/0.1.7) in [kne-union/react-file](https://github.com/kne-union/react-file)
+2. 🎉 Merged PR [#8](https://github.com/kne-union/react-file/pull/8) in [kne-union/react-file](https://github.com/kne-union/react-file)
+3. 💪 Opened PR [#8](https://github.com/kne-union/react-file/pull/8) in [kne-union/react-file](https://github.com/kne-union/react-file)
+4. 🚀 Published release [0.1.6](https://github.com/kne-union/react-file/releases/tag/0.1.6) in [kne-union/react-file](https://github.com/kne-union/react-file)
+5. 🎉 Merged PR [#7](https://github.com/kne-union/react-file/pull/7) in [kne-union/react-file](https://github.com/kne-union/react-file)
 <!--END_SECTION:activity-->
 
 ---
