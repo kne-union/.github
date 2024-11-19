@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.4](https://github.com/kne-union/create-props/releases/tag/0.1.4) in [kne-union/create-props](https://github.com/kne-union/create-props)
-2. 🎉 Merged PR [#5](https://github.com/kne-union/create-props/pull/5) in [kne-union/create-props](https://github.com/kne-union/create-props)
-3. 💪 Opened PR [#5](https://github.com/kne-union/create-props/pull/5) in [kne-union/create-props](https://github.com/kne-union/create-props)
-4. 🚀 Published release [0.1.3](https://github.com/kne-union/create-props/releases/tag/0.1.3) in [kne-union/create-props](https://github.com/kne-union/create-props)
-5. 🎉 Merged PR [#4](https://github.com/kne-union/create-props/pull/4) in [kne-union/create-props](https://github.com/kne-union/create-props)
+1. 🚀 Published release [1.1.3](https://github.com/kne-union/global-context/releases/tag/1.1.3) in [kne-union/global-context](https://github.com/kne-union/global-context)
+2. 🎉 Merged PR [#7](https://github.com/kne-union/global-context/pull/7) in [kne-union/global-context](https://github.com/kne-union/global-context)
+3. 💪 Opened PR [#7](https://github.com/kne-union/global-context/pull/7) in [kne-union/global-context](https://github.com/kne-union/global-context)
+4. 🚀 Published release [0.1.4](https://github.com/kne-union/create-props/releases/tag/0.1.4) in [kne-union/create-props](https://github.com/kne-union/create-props)
+5. 🎉 Merged PR [#5](https://github.com/kne-union/create-props/pull/5) in [kne-union/create-props](https://github.com/kne-union/create-props)
 <!--END_SECTION:activity-->
 
 ---
