@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.2.68](https://github.com/kne-union/components-core/releases/tag/0.2.68) in [kne-union/components-core](https://github.com/kne-union/components-core)
-2. 🎉 Merged PR [#339](https://github.com/kne-union/components-core/pull/339) in [kne-union/components-core](https://github.com/kne-union/components-core)
-3. 💪 Opened PR [#339](https://github.com/kne-union/components-core/pull/339) in [kne-union/components-core](https://github.com/kne-union/components-core)
-4. 🎉 Merged PR [#338](https://github.com/kne-union/components-core/pull/338) in [kne-union/components-core](https://github.com/kne-union/components-core)
-5. 💪 Opened PR [#338](https://github.com/kne-union/components-core/pull/338) in [kne-union/components-core](https://github.com/kne-union/components-core)
+1. 🚀 Published release [0.1.1](https://github.com/kne-union/create-props/releases/tag/0.1.1) in [kne-union/create-props](https://github.com/kne-union/create-props)
+2. 🎉 Merged PR [#2](https://github.com/kne-union/create-props/pull/2) in [kne-union/create-props](https://github.com/kne-union/create-props)
+3. 💪 Opened PR [#2](https://github.com/kne-union/create-props/pull/2) in [kne-union/create-props](https://github.com/kne-union/create-props)
+4. 🚀 Published release [0.1.0](https://github.com/kne-union/create-props/releases/tag/0.1.0) in [kne-union/create-props](https://github.com/kne-union/create-props)
+5. 🎉 Merged PR [#1](https://github.com/kne-union/create-props/pull/1) in [kne-union/create-props](https://github.com/kne-union/create-props)
 <!--END_SECTION:activity-->
 
 ---
