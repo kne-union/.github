@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.4](https://github.com/kne-union/react-enum/releases/tag/0.1.4) in [kne-union/react-enum](https://github.com/kne-union/react-enum)
-2. 🎉 Merged PR [#5](https://github.com/kne-union/react-enum/pull/5) in [kne-union/react-enum](https://github.com/kne-union/react-enum)
-3. 💪 Opened PR [#5](https://github.com/kne-union/react-enum/pull/5) in [kne-union/react-enum](https://github.com/kne-union/react-enum)
-4. 🚀 Published release [0.2.69](https://github.com/kne-union/components-core/releases/tag/0.2.69) in [kne-union/components-core](https://github.com/kne-union/components-core)
-5. 🎉 Merged PR [#341](https://github.com/kne-union/components-core/pull/341) in [kne-union/components-core](https://github.com/kne-union/components-core)
+1. 🚀 Published release [0.1.0](https://github.com/kne-union/analytics-sdk/releases/tag/0.1.0) in [kne-union/analytics-sdk](https://github.com/kne-union/analytics-sdk)
+2. 🎉 Merged PR [#1](https://github.com/kne-union/analytics-sdk/pull/1) in [kne-union/analytics-sdk](https://github.com/kne-union/analytics-sdk)
+3. 💪 Opened PR [#1](https://github.com/kne-union/analytics-sdk/pull/1) in [kne-union/analytics-sdk](https://github.com/kne-union/analytics-sdk)
+4. 🚀 Published release [0.1.4](https://github.com/kne-union/react-enum/releases/tag/0.1.4) in [kne-union/react-enum](https://github.com/kne-union/react-enum)
+5. 🎉 Merged PR [#5](https://github.com/kne-union/react-enum/pull/5) in [kne-union/react-enum](https://github.com/kne-union/react-enum)
 <!--END_SECTION:activity-->
 
 ---
