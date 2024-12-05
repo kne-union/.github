@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/kne-union/fastify-namespace/releases/tag/1.0.0) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
-2. 🎉 Merged PR [#4](https://github.com/kne-union/fastify-namespace/pull/4) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
-3. 💪 Opened PR [#4](https://github.com/kne-union/fastify-namespace/pull/4) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
-4. 🎉 Merged PR [#86](https://github.com/kne-union/components-account/pull/86) in [kne-union/components-account](https://github.com/kne-union/components-account)
-5. 💪 Opened PR [#86](https://github.com/kne-union/components-account/pull/86) in [kne-union/components-account](https://github.com/kne-union/components-account)
+1. 🚀 Published release [1.0.1](https://github.com/kne-union/fastify-namespace/releases/tag/1.0.1) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
+2. 🎉 Merged PR [#5](https://github.com/kne-union/fastify-namespace/pull/5) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
+3. 💪 Opened PR [#5](https://github.com/kne-union/fastify-namespace/pull/5) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
+4. 🚀 Published release [1.0.0](https://github.com/kne-union/fastify-namespace/releases/tag/1.0.0) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
+5. 🎉 Merged PR [#4](https://github.com/kne-union/fastify-namespace/pull/4) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
 <!--END_SECTION:activity-->
 
 ---
