@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/kne-union/react-file-type/pull/5) in [kne-union/react-file-type](https://github.com/kne-union/react-file-type)
-2. 💪 Opened PR [#5](https://github.com/kne-union/react-file-type/pull/5) in [kne-union/react-file-type](https://github.com/kne-union/react-file-type)
-3. 🚀 Published release [1.0.3](https://github.com/kne-union/fastify-namespace/releases/tag/1.0.3) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
-4. 🎉 Merged PR [#7](https://github.com/kne-union/fastify-namespace/pull/7) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
-5. 💪 Opened PR [#7](https://github.com/kne-union/fastify-namespace/pull/7) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
+1. 🚀 Published release [0.2.0](https://github.com/kne-union/components-iconfont/releases/tag/0.2.0) in [kne-union/components-iconfont](https://github.com/kne-union/components-iconfont)
+2. 🎉 Merged PR [#28](https://github.com/kne-union/components-iconfont/pull/28) in [kne-union/components-iconfont](https://github.com/kne-union/components-iconfont)
+3. 💪 Opened PR [#28](https://github.com/kne-union/components-iconfont/pull/28) in [kne-union/components-iconfont](https://github.com/kne-union/components-iconfont)
+4. 🎉 Merged PR [#5](https://github.com/kne-union/react-file-type/pull/5) in [kne-union/react-file-type](https://github.com/kne-union/react-file-type)
+5. 💪 Opened PR [#5](https://github.com/kne-union/react-file-type/pull/5) in [kne-union/react-file-type](https://github.com/kne-union/react-file-type)
 <!--END_SECTION:activity-->
 
 ---
