@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.2.0](https://github.com/kne-union/components-iconfont/releases/tag/0.2.0) in [kne-union/components-iconfont](https://github.com/kne-union/components-iconfont)
-2. 🎉 Merged PR [#28](https://github.com/kne-union/components-iconfont/pull/28) in [kne-union/components-iconfont](https://github.com/kne-union/components-iconfont)
-3. 💪 Opened PR [#28](https://github.com/kne-union/components-iconfont/pull/28) in [kne-union/components-iconfont](https://github.com/kne-union/components-iconfont)
-4. 🎉 Merged PR [#5](https://github.com/kne-union/react-file-type/pull/5) in [kne-union/react-file-type](https://github.com/kne-union/react-file-type)
-5. 💪 Opened PR [#5](https://github.com/kne-union/react-file-type/pull/5) in [kne-union/react-file-type](https://github.com/kne-union/react-file-type)
+1. 🚀 Published release [0.2.23](https://github.com/kne-union/components-account/releases/tag/0.2.23) in [kne-union/components-account](https://github.com/kne-union/components-account)
+2. 🎉 Merged PR [#88](https://github.com/kne-union/components-account/pull/88) in [kne-union/components-account](https://github.com/kne-union/components-account)
+3. 💪 Opened PR [#88](https://github.com/kne-union/components-account/pull/88) in [kne-union/components-account](https://github.com/kne-union/components-account)
+4. 🎉 Merged PR [#73](https://github.com/kne-union/fastify-account/pull/73) in [kne-union/fastify-account](https://github.com/kne-union/fastify-account)
+5. 💪 Opened PR [#73](https://github.com/kne-union/fastify-account/pull/73) in [kne-union/fastify-account](https://github.com/kne-union/fastify-account)
 <!--END_SECTION:activity-->
 
 ---
