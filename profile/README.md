@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.0.0-alpha.5](https://github.com/kne-union/fastify-sequelize/releases/tag/3.0.0-alpha.5) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
-2. 🎉 Merged PR [#17](https://github.com/kne-union/fastify-sequelize/pull/17) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
-3. 💪 Opened PR [#17](https://github.com/kne-union/fastify-sequelize/pull/17) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
-4. 🚀 Published release [3.0.0-alpha.4](https://github.com/kne-union/fastify-sequelize/releases/tag/3.0.0-alpha.4) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
-5. 🎉 Merged PR [#16](https://github.com/kne-union/fastify-sequelize/pull/16) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
+1. 🚀 Published release [0.2.82](https://github.com/kne-union/components-core/releases/tag/0.2.82) in [kne-union/components-core](https://github.com/kne-union/components-core)
+2. 🎉 Merged PR [#371](https://github.com/kne-union/components-core/pull/371) in [kne-union/components-core](https://github.com/kne-union/components-core)
+3. 🗣 Commented on [#369](https://github.com/kne-union/components-core/issues/369#issuecomment-2547597355) in [kne-union/components-core](https://github.com/kne-union/components-core)
+4. 🔒 Closed issue [#369](https://github.com/kne-union/components-core/issues/369) in [kne-union/components-core](https://github.com/kne-union/components-core)
+5. 💪 Opened PR [#371](https://github.com/kne-union/components-core/pull/371) in [kne-union/components-core](https://github.com/kne-union/components-core)
 <!--END_SECTION:activity-->
 
 ---
