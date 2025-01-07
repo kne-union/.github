@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.3](https://github.com/kne-union/react-flow-chart/releases/tag/0.1.3) in [kne-union/react-flow-chart](https://github.com/kne-union/react-flow-chart)
-2. 🎉 Merged PR [#4](https://github.com/kne-union/react-flow-chart/pull/4) in [kne-union/react-flow-chart](https://github.com/kne-union/react-flow-chart)
-3. 💪 Opened PR [#4](https://github.com/kne-union/react-flow-chart/pull/4) in [kne-union/react-flow-chart](https://github.com/kne-union/react-flow-chart)
-4. 🚀 Published release [0.1.2](https://github.com/kne-union/react-flow-chart/releases/tag/0.1.2) in [kne-union/react-flow-chart](https://github.com/kne-union/react-flow-chart)
-5. 🎉 Merged PR [#3](https://github.com/kne-union/react-flow-chart/pull/3) in [kne-union/react-flow-chart](https://github.com/kne-union/react-flow-chart)
+1. 🚀 Published release [0.1.4](https://github.com/kne-union/react-flow-chart/releases/tag/0.1.4) in [kne-union/react-flow-chart](https://github.com/kne-union/react-flow-chart)
+2. 🎉 Merged PR [#5](https://github.com/kne-union/react-flow-chart/pull/5) in [kne-union/react-flow-chart](https://github.com/kne-union/react-flow-chart)
+3. 💪 Opened PR [#5](https://github.com/kne-union/react-flow-chart/pull/5) in [kne-union/react-flow-chart](https://github.com/kne-union/react-flow-chart)
+4. 🚀 Published release [0.1.3](https://github.com/kne-union/react-flow-chart/releases/tag/0.1.3) in [kne-union/react-flow-chart](https://github.com/kne-union/react-flow-chart)
+5. 🎉 Merged PR [#4](https://github.com/kne-union/react-flow-chart/pull/4) in [kne-union/react-flow-chart](https://github.com/kne-union/react-flow-chart)
 <!--END_SECTION:activity-->
 
 ---
