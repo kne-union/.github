@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.4](https://github.com/kne-union/react-flow-chart/releases/tag/0.1.4) in [kne-union/react-flow-chart](https://github.com/kne-union/react-flow-chart)
-2. 🎉 Merged PR [#5](https://github.com/kne-union/react-flow-chart/pull/5) in [kne-union/react-flow-chart](https://github.com/kne-union/react-flow-chart)
-3. 💪 Opened PR [#5](https://github.com/kne-union/react-flow-chart/pull/5) in [kne-union/react-flow-chart](https://github.com/kne-union/react-flow-chart)
-4. 🚀 Published release [0.1.3](https://github.com/kne-union/react-flow-chart/releases/tag/0.1.3) in [kne-union/react-flow-chart](https://github.com/kne-union/react-flow-chart)
-5. 🎉 Merged PR [#4](https://github.com/kne-union/react-flow-chart/pull/4) in [kne-union/react-flow-chart](https://github.com/kne-union/react-flow-chart)
+1. 🚀 Published release [0.2.86](https://github.com/kne-union/components-core/releases/tag/0.2.86) in [kne-union/components-core](https://github.com/kne-union/components-core)
+2. 🎉 Merged PR [#380](https://github.com/kne-union/components-core/pull/380) in [kne-union/components-core](https://github.com/kne-union/components-core)
+3. 💪 Opened PR [#380](https://github.com/kne-union/components-core/pull/380) in [kne-union/components-core](https://github.com/kne-union/components-core)
+4. 🎉 Merged PR [#379](https://github.com/kne-union/components-core/pull/379) in [kne-union/components-core](https://github.com/kne-union/components-core)
+5. 💪 Opened PR [#379](https://github.com/kne-union/components-core/pull/379) in [kne-union/components-core](https://github.com/kne-union/components-core)
 <!--END_SECTION:activity-->
 
 ---
