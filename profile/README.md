@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.7](https://github.com/kne-union/button-group/releases/tag/0.1.7) in [kne-union/button-group](https://github.com/kne-union/button-group)
-2. 🎉 Merged PR [#11](https://github.com/kne-union/button-group/pull/11) in [kne-union/button-group](https://github.com/kne-union/button-group)
-3. 💪 Opened PR [#11](https://github.com/kne-union/button-group/pull/11) in [kne-union/button-group](https://github.com/kne-union/button-group)
-4. 🎉 Merged PR [#10](https://github.com/kne-union/button-group/pull/10) in [kne-union/button-group](https://github.com/kne-union/button-group)
-5. 💪 Opened PR [#10](https://github.com/kne-union/button-group/pull/10) in [kne-union/button-group](https://github.com/kne-union/button-group)
+1. 🎉 Merged PR [#396](https://github.com/kne-union/components-core/pull/396) in [kne-union/components-core](https://github.com/kne-union/components-core)
+2. 💪 Opened PR [#396](https://github.com/kne-union/components-core/pull/396) in [kne-union/components-core](https://github.com/kne-union/components-core)
+3. 🎉 Merged PR [#395](https://github.com/kne-union/components-core/pull/395) in [kne-union/components-core](https://github.com/kne-union/components-core)
+4. 💪 Opened PR [#395](https://github.com/kne-union/components-core/pull/395) in [kne-union/components-core](https://github.com/kne-union/components-core)
+5. 🚀 Published release [0.1.7](https://github.com/kne-union/button-group/releases/tag/0.1.7) in [kne-union/button-group](https://github.com/kne-union/button-group)
 <!--END_SECTION:activity-->
 
 ---
