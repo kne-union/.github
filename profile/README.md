@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/kne-union/button-group/pull/16) in [kne-union/button-group](https://github.com/kne-union/button-group)
-2. 💪 Opened PR [#16](https://github.com/kne-union/button-group/pull/16) in [kne-union/button-group](https://github.com/kne-union/button-group)
-3. 🎉 Merged PR [#15](https://github.com/kne-union/button-group/pull/15) in [kne-union/button-group](https://github.com/kne-union/button-group)
-4. 💪 Opened PR [#15](https://github.com/kne-union/button-group/pull/15) in [kne-union/button-group](https://github.com/kne-union/button-group)
-5. 🎉 Merged PR [#14](https://github.com/kne-union/button-group/pull/14) in [kne-union/button-group](https://github.com/kne-union/button-group)
+1. 🎉 Merged PR [#4](https://github.com/kne-union/react-intl/pull/4) in [kne-union/react-intl](https://github.com/kne-union/react-intl)
+2. 💪 Opened PR [#4](https://github.com/kne-union/react-intl/pull/4) in [kne-union/react-intl](https://github.com/kne-union/react-intl)
+3. 🚀 Published release [0.1.8](https://github.com/kne-union/button-group/releases/tag/0.1.8) in [kne-union/button-group](https://github.com/kne-union/button-group)
+4. 🎉 Merged PR [#16](https://github.com/kne-union/button-group/pull/16) in [kne-union/button-group](https://github.com/kne-union/button-group)
+5. 💪 Opened PR [#16](https://github.com/kne-union/button-group/pull/16) in [kne-union/button-group](https://github.com/kne-union/button-group)
 <!--END_SECTION:activity-->
 
 ---
