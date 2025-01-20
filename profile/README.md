@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.2.95](https://github.com/kne-union/components-core/releases/tag/0.2.95) in [kne-union/components-core](https://github.com/kne-union/components-core)
-2. 🎉 Merged PR [#396](https://github.com/kne-union/components-core/pull/396) in [kne-union/components-core](https://github.com/kne-union/components-core)
-3. 💪 Opened PR [#396](https://github.com/kne-union/components-core/pull/396) in [kne-union/components-core](https://github.com/kne-union/components-core)
-4. 🎉 Merged PR [#395](https://github.com/kne-union/components-core/pull/395) in [kne-union/components-core](https://github.com/kne-union/components-core)
-5. 💪 Opened PR [#395](https://github.com/kne-union/components-core/pull/395) in [kne-union/components-core](https://github.com/kne-union/components-core)
+1. 🎉 Merged PR [#3](https://github.com/kne-union/react-intl/pull/3) in [kne-union/react-intl](https://github.com/kne-union/react-intl)
+2. 💪 Opened PR [#3](https://github.com/kne-union/react-intl/pull/3) in [kne-union/react-intl](https://github.com/kne-union/react-intl)
+3. 🎉 Merged PR [#2](https://github.com/kne-union/react-intl/pull/2) in [kne-union/react-intl](https://github.com/kne-union/react-intl)
+4. 💪 Opened PR [#2](https://github.com/kne-union/react-intl/pull/2) in [kne-union/react-intl](https://github.com/kne-union/react-intl)
+5. 🎉 Merged PR [#1](https://github.com/kne-union/react-intl/pull/1) in [kne-union/react-intl](https://github.com/kne-union/react-intl)
 <!--END_SECTION:activity-->
 
 ---
