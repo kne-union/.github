@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.5](https://github.com/kne-union/fastify-response-data-format/releases/tag/0.1.5) in [kne-union/fastify-response-data-format](https://github.com/kne-union/fastify-response-data-format)
-2. 🎉 Merged PR [#6](https://github.com/kne-union/fastify-response-data-format/pull/6) in [kne-union/fastify-response-data-format](https://github.com/kne-union/fastify-response-data-format)
-3. 💪 Opened PR [#6](https://github.com/kne-union/fastify-response-data-format/pull/6) in [kne-union/fastify-response-data-format](https://github.com/kne-union/fastify-response-data-format)
-4. 🚀 Published release [0.1.4](https://github.com/kne-union/fastify-response-data-format/releases/tag/0.1.4) in [kne-union/fastify-response-data-format](https://github.com/kne-union/fastify-response-data-format)
-5. 🎉 Merged PR [#5](https://github.com/kne-union/fastify-response-data-format/pull/5) in [kne-union/fastify-response-data-format](https://github.com/kne-union/fastify-response-data-format)
+1. 🚀 Published release [0.1.6](https://github.com/kne-union/fastify-response-data-format/releases/tag/0.1.6) in [kne-union/fastify-response-data-format](https://github.com/kne-union/fastify-response-data-format)
+2. 🎉 Merged PR [#7](https://github.com/kne-union/fastify-response-data-format/pull/7) in [kne-union/fastify-response-data-format](https://github.com/kne-union/fastify-response-data-format)
+3. 💪 Opened PR [#7](https://github.com/kne-union/fastify-response-data-format/pull/7) in [kne-union/fastify-response-data-format](https://github.com/kne-union/fastify-response-data-format)
+4. 🚀 Published release [0.1.5](https://github.com/kne-union/fastify-response-data-format/releases/tag/0.1.5) in [kne-union/fastify-response-data-format](https://github.com/kne-union/fastify-response-data-format)
+5. 🎉 Merged PR [#6](https://github.com/kne-union/fastify-response-data-format/pull/6) in [kne-union/fastify-response-data-format](https://github.com/kne-union/fastify-response-data-format)
 <!--END_SECTION:activity-->
 
 ---
