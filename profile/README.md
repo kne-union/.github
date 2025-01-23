@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.2.3](https://github.com/kne-union/fastify-file-manager/releases/tag/1.2.3) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
-2. 🎉 Merged PR [#15](https://github.com/kne-union/fastify-file-manager/pull/15) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
-3. 💪 Opened PR [#15](https://github.com/kne-union/fastify-file-manager/pull/15) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
-4. 🚀 Published release [1.0.0-alpha.24](https://github.com/kne-union/fastify-account/releases/tag/1.0.0-alpha.24) in [kne-union/fastify-account](https://github.com/kne-union/fastify-account)
-5. 🎉 Merged PR [#77](https://github.com/kne-union/fastify-account/pull/77) in [kne-union/fastify-account](https://github.com/kne-union/fastify-account)
+1. 🚀 Published release [1.2.4](https://github.com/kne-union/fastify-file-manager/releases/tag/1.2.4) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
+2. 🎉 Merged PR [#16](https://github.com/kne-union/fastify-file-manager/pull/16) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
+3. 💪 Opened PR [#16](https://github.com/kne-union/fastify-file-manager/pull/16) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
+4. 🚀 Published release [1.2.3](https://github.com/kne-union/fastify-file-manager/releases/tag/1.2.3) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
+5. 🎉 Merged PR [#15](https://github.com/kne-union/fastify-file-manager/pull/15) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
 <!--END_SECTION:activity-->
 
 ---
