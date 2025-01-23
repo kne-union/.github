@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.3.0](https://github.com/kne-union/components-core/releases/tag/0.3.0) in [kne-union/components-core](https://github.com/kne-union/components-core)
-2. 🎉 Merged PR [#398](https://github.com/kne-union/components-core/pull/398) in [kne-union/components-core](https://github.com/kne-union/components-core)
-3. 💪 Opened PR [#398](https://github.com/kne-union/components-core/pull/398) in [kne-union/components-core](https://github.com/kne-union/components-core)
-4. 🎉 Merged PR [#397](https://github.com/kne-union/components-core/pull/397) in [kne-union/components-core](https://github.com/kne-union/components-core)
-5. 💪 Opened PR [#397](https://github.com/kne-union/components-core/pull/397) in [kne-union/components-core](https://github.com/kne-union/components-core)
+1. 🎉 Merged PR [#77](https://github.com/kne-union/fastify-account/pull/77) in [kne-union/fastify-account](https://github.com/kne-union/fastify-account)
+2. 💪 Opened PR [#77](https://github.com/kne-union/fastify-account/pull/77) in [kne-union/fastify-account](https://github.com/kne-union/fastify-account)
+3. 🎉 Merged PR [#76](https://github.com/kne-union/fastify-account/pull/76) in [kne-union/fastify-account](https://github.com/kne-union/fastify-account)
+4. 💪 Opened PR [#76](https://github.com/kne-union/fastify-account/pull/76) in [kne-union/fastify-account](https://github.com/kne-union/fastify-account)
+5. 🚀 Published release [1.0.0-alpha.23](https://github.com/kne-union/fastify-account/releases/tag/1.0.0-alpha.23) in [kne-union/fastify-account](https://github.com/kne-union/fastify-account)
 <!--END_SECTION:activity-->
 
 ---
