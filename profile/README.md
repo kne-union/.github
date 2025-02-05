@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.0](https://github.com/kne-union/react-icon/releases/tag/0.1.0) in [kne-union/react-icon](https://github.com/kne-union/react-icon)
-2. 🎉 Merged PR [#1](https://github.com/kne-union/react-icon/pull/1) in [kne-union/react-icon](https://github.com/kne-union/react-icon)
-3. 💪 Opened PR [#1](https://github.com/kne-union/react-icon/pull/1) in [kne-union/react-icon](https://github.com/kne-union/react-icon)
-4. 🚀 Published release [0.1.6](https://github.com/kne-union/fastify-response-data-format/releases/tag/0.1.6) in [kne-union/fastify-response-data-format](https://github.com/kne-union/fastify-response-data-format)
-5. 🎉 Merged PR [#7](https://github.com/kne-union/fastify-response-data-format/pull/7) in [kne-union/fastify-response-data-format](https://github.com/kne-union/fastify-response-data-format)
+1. 🚀 Published release [0.1.1](https://github.com/kne-union/react-icon/releases/tag/0.1.1) in [kne-union/react-icon](https://github.com/kne-union/react-icon)
+2. 🎉 Merged PR [#2](https://github.com/kne-union/react-icon/pull/2) in [kne-union/react-icon](https://github.com/kne-union/react-icon)
+3. 💪 Opened PR [#2](https://github.com/kne-union/react-icon/pull/2) in [kne-union/react-icon](https://github.com/kne-union/react-icon)
+4. 🚀 Published release [0.1.0](https://github.com/kne-union/react-icon/releases/tag/0.1.0) in [kne-union/react-icon](https://github.com/kne-union/react-icon)
+5. 🎉 Merged PR [#1](https://github.com/kne-union/react-icon/pull/1) in [kne-union/react-icon](https://github.com/kne-union/react-icon)
 <!--END_SECTION:activity-->
 
 ---
