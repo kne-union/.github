@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/kne-union/remote-loader/pull/21) in [kne-union/remote-loader](https://github.com/kne-union/remote-loader)
-2. 🎉 Merged PR [#18](https://github.com/kne-union/super-select/pull/18) in [kne-union/super-select](https://github.com/kne-union/super-select)
-3. 🚀 Published release [0.3.7](https://github.com/kne-union/components-core/releases/tag/0.3.7) in [kne-union/components-core](https://github.com/kne-union/components-core)
-4. 🎉 Merged PR [#413](https://github.com/kne-union/components-core/pull/413) in [kne-union/components-core](https://github.com/kne-union/components-core)
-5. 💪 Opened PR [#413](https://github.com/kne-union/components-core/pull/413) in [kne-union/components-core](https://github.com/kne-union/components-core)
+1. 🎉 Merged PR [#6](https://github.com/kne-union/components-ckeditor/pull/6) in [kne-union/components-ckeditor](https://github.com/kne-union/components-ckeditor)
+2. 💪 Opened PR [#6](https://github.com/kne-union/components-ckeditor/pull/6) in [kne-union/components-ckeditor](https://github.com/kne-union/components-ckeditor)
+3. 💪 Opened PR [#21](https://github.com/kne-union/remote-loader/pull/21) in [kne-union/remote-loader](https://github.com/kne-union/remote-loader)
+4. 🎉 Merged PR [#18](https://github.com/kne-union/super-select/pull/18) in [kne-union/super-select](https://github.com/kne-union/super-select)
+5. 🚀 Published release [0.3.7](https://github.com/kne-union/components-core/releases/tag/0.3.7) in [kne-union/components-core](https://github.com/kne-union/components-core)
 <!--END_SECTION:activity-->
 
 ---
