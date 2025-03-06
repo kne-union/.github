@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.2](https://github.com/kne-union/react-icon/releases/tag/0.1.2) in [kne-union/react-icon](https://github.com/kne-union/react-icon)
-2. 🎉 Merged PR [#3](https://github.com/kne-union/react-icon/pull/3) in [kne-union/react-icon](https://github.com/kne-union/react-icon)
-3. 💪 Opened PR [#3](https://github.com/kne-union/react-icon/pull/3) in [kne-union/react-icon](https://github.com/kne-union/react-icon)
-4. 🚀 Published release [0.1.1](https://github.com/kne-union/icon-build/releases/tag/0.1.1) in [kne-union/icon-build](https://github.com/kne-union/icon-build)
-5. 🎉 Merged PR [#3](https://github.com/kne-union/icon-build/pull/3) in [kne-union/icon-build](https://github.com/kne-union/icon-build)
+1. 🚀 Published release [0.1.3](https://github.com/kne-union/icon-build/releases/tag/0.1.3) in [kne-union/icon-build](https://github.com/kne-union/icon-build)
+2. 🎉 Merged PR [#4](https://github.com/kne-union/icon-build/pull/4) in [kne-union/icon-build](https://github.com/kne-union/icon-build)
+3. 💪 Opened PR [#4](https://github.com/kne-union/icon-build/pull/4) in [kne-union/icon-build](https://github.com/kne-union/icon-build)
+4. 🚀 Published release [0.3.8](https://github.com/kne-union/components-core/releases/tag/0.3.8) in [kne-union/components-core](https://github.com/kne-union/components-core)
+5. 🎉 Merged PR [#415](https://github.com/kne-union/components-core/pull/415) in [kne-union/components-core](https://github.com/kne-union/components-core)
 <!--END_SECTION:activity-->
 
 ---
