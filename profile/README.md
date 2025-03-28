@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/kne-union/components-ckeditor/pull/12) in [kne-union/components-ckeditor](https://github.com/kne-union/components-ckeditor)
-2. 💪 Opened PR [#12](https://github.com/kne-union/components-ckeditor/pull/12) in [kne-union/components-ckeditor](https://github.com/kne-union/components-ckeditor)
-3. 🚀 Published release [0.3.12](https://github.com/kne-union/components-core/releases/tag/0.3.12) in [kne-union/components-core](https://github.com/kne-union/components-core)
-4. 🎉 Merged PR [#423](https://github.com/kne-union/components-core/pull/423) in [kne-union/components-core](https://github.com/kne-union/components-core)
-5. 💪 Opened PR [#423](https://github.com/kne-union/components-core/pull/423) in [kne-union/components-core](https://github.com/kne-union/components-core)
+1. 🚀 Published release [0.1.1](https://github.com/kne-union/components-leapin/releases/tag/0.1.1) in [kne-union/components-leapin](https://github.com/kne-union/components-leapin)
+2. 🎉 Merged PR [#3](https://github.com/kne-union/components-leapin/pull/3) in [kne-union/components-leapin](https://github.com/kne-union/components-leapin)
+3. 💪 Opened PR [#3](https://github.com/kne-union/components-leapin/pull/3) in [kne-union/components-leapin](https://github.com/kne-union/components-leapin)
+4. 🎉 Merged PR [#2](https://github.com/kne-union/components-leapin/pull/2) in [kne-union/components-leapin](https://github.com/kne-union/components-leapin)
+5. 💪 Opened PR [#2](https://github.com/kne-union/components-leapin/pull/2) in [kne-union/components-leapin](https://github.com/kne-union/components-leapin)
 <!--END_SECTION:activity-->
 
 ---
