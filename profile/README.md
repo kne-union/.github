@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/kne-union/modules-dev/pull/94) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
-2. 💪 Opened PR [#94](https://github.com/kne-union/modules-dev/pull/94) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
-3. 🎉 Merged PR [#93](https://github.com/kne-union/modules-dev/pull/93) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
-4. 💪 Opened PR [#93](https://github.com/kne-union/modules-dev/pull/93) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
-5. 🎉 Merged PR [#92](https://github.com/kne-union/modules-dev/pull/92) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
+1. 🎉 Merged PR [#429](https://github.com/kne-union/components-core/pull/429) in [kne-union/components-core](https://github.com/kne-union/components-core)
+2. 💪 Opened PR [#429](https://github.com/kne-union/components-core/pull/429) in [kne-union/components-core](https://github.com/kne-union/components-core)
+3. 🎉 Merged PR [#428](https://github.com/kne-union/components-core/pull/428) in [kne-union/components-core](https://github.com/kne-union/components-core)
+4. 💪 Opened PR [#428](https://github.com/kne-union/components-core/pull/428) in [kne-union/components-core](https://github.com/kne-union/components-core)
+5. 🚀 Published release [4.0.2](https://github.com/kne-union/react-form-antd/releases/tag/4.0.2) in [kne-union/react-form-antd](https://github.com/kne-union/react-form-antd)
 <!--END_SECTION:activity-->
 
 ---
