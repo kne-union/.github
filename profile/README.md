@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.1.10](https://github.com/kne-union/modules-dev/releases/tag/2.1.10) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
-2. 🎉 Merged PR [#95](https://github.com/kne-union/modules-dev/pull/95) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
-3. 💪 Opened PR [#95](https://github.com/kne-union/modules-dev/pull/95) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
-4. 🚀 Published release [0.1.15](https://github.com/kne-union/info-page/releases/tag/0.1.15) in [kne-union/info-page](https://github.com/kne-union/info-page)
-5. 🎉 Merged PR [#33](https://github.com/kne-union/info-page/pull/33) in [kne-union/info-page](https://github.com/kne-union/info-page)
+1. 🚀 Published release [0.1.22](https://github.com/kne-union/ued/releases/tag/0.1.22) in [kne-union/ued](https://github.com/kne-union/ued)
+2. 🚀 Published release [0.1.21](https://github.com/kne-union/ued/releases/tag/0.1.21) in [kne-union/ued](https://github.com/kne-union/ued)
+3. 🎉 Merged PR [#68](https://github.com/kne-union/ued/pull/68) in [kne-union/ued](https://github.com/kne-union/ued)
+4. 💪 Opened PR [#68](https://github.com/kne-union/ued/pull/68) in [kne-union/ued](https://github.com/kne-union/ued)
+5. 🎉 Merged PR [#67](https://github.com/kne-union/ued/pull/67) in [kne-union/ued](https://github.com/kne-union/ued)
 <!--END_SECTION:activity-->
 
 ---
