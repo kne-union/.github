@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.2.4](https://github.com/kne-union/speech-text/releases/tag/0.2.4) in [kne-union/speech-text](https://github.com/kne-union/speech-text)
-2. 🎉 Merged PR [#6](https://github.com/kne-union/speech-text/pull/6) in [kne-union/speech-text](https://github.com/kne-union/speech-text)
-3. 💪 Opened PR [#6](https://github.com/kne-union/speech-text/pull/6) in [kne-union/speech-text](https://github.com/kne-union/speech-text)
-4. 🚀 Published release [0.3.15](https://github.com/kne-union/components-core/releases/tag/0.3.15) in [kne-union/components-core](https://github.com/kne-union/components-core)
-5. 🎉 Merged PR [#431](https://github.com/kne-union/components-core/pull/431) in [kne-union/components-core](https://github.com/kne-union/components-core)
+1. 🚀 Published release [2.1.10](https://github.com/kne-union/modules-dev/releases/tag/2.1.10) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
+2. 🎉 Merged PR [#95](https://github.com/kne-union/modules-dev/pull/95) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
+3. 💪 Opened PR [#95](https://github.com/kne-union/modules-dev/pull/95) in [kne-union/modules-dev](https://github.com/kne-union/modules-dev)
+4. 🚀 Published release [0.1.15](https://github.com/kne-union/info-page/releases/tag/0.1.15) in [kne-union/info-page](https://github.com/kne-union/info-page)
+5. 🎉 Merged PR [#33](https://github.com/kne-union/info-page/pull/33) in [kne-union/info-page](https://github.com/kne-union/info-page)
 <!--END_SECTION:activity-->
 
 ---
