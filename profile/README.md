@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/kne-union/fastify-shorten/pull/2) in [kne-union/fastify-shorten](https://github.com/kne-union/fastify-shorten)
-2. 💪 Opened PR [#2](https://github.com/kne-union/fastify-shorten/pull/2) in [kne-union/fastify-shorten](https://github.com/kne-union/fastify-shorten)
-3. 🎉 Merged PR [#1](https://github.com/kne-union/fastify-shorten/pull/1) in [kne-union/fastify-shorten](https://github.com/kne-union/fastify-shorten)
-4. 💪 Opened PR [#1](https://github.com/kne-union/fastify-shorten/pull/1) in [kne-union/fastify-shorten](https://github.com/kne-union/fastify-shorten)
-5. 🚀 Published release [1.1.0](https://github.com/kne-union/fastify-namespace/releases/tag/1.1.0) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
+1. 🚀 Published release [1.0.0](https://github.com/kne-union/fastify-response-data-format/releases/tag/1.0.0) in [kne-union/fastify-response-data-format](https://github.com/kne-union/fastify-response-data-format)
+2. 🎉 Merged PR [#8](https://github.com/kne-union/fastify-response-data-format/pull/8) in [kne-union/fastify-response-data-format](https://github.com/kne-union/fastify-response-data-format)
+3. 💪 Opened PR [#8](https://github.com/kne-union/fastify-response-data-format/pull/8) in [kne-union/fastify-response-data-format](https://github.com/kne-union/fastify-response-data-format)
+4. 🚀 Published release [1.0.0](https://github.com/kne-union/fastify-shorten/releases/tag/1.0.0) in [kne-union/fastify-shorten](https://github.com/kne-union/fastify-shorten)
+5. 🎉 Merged PR [#2](https://github.com/kne-union/fastify-shorten/pull/2) in [kne-union/fastify-shorten](https://github.com/kne-union/fastify-shorten)
 <!--END_SECTION:activity-->
 
 ---
