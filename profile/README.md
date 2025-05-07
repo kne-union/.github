@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.0.0-alpha.7](https://github.com/kne-union/fastify-sequelize/releases/tag/3.0.0-alpha.7) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
-2. 🎉 Merged PR [#19](https://github.com/kne-union/fastify-sequelize/pull/19) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
-3. 💪 Opened PR [#19](https://github.com/kne-union/fastify-sequelize/pull/19) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
-4. 🚀 Published release [0.1.23](https://github.com/kne-union/ued/releases/tag/0.1.23) in [kne-union/ued](https://github.com/kne-union/ued)
-5. 🚀 Published release [0.3.17](https://github.com/kne-union/components-core/releases/tag/0.3.17) in [kne-union/components-core](https://github.com/kne-union/components-core)
+1. 🚀 Published release [1.1.0](https://github.com/kne-union/fastify-namespace/releases/tag/1.1.0) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
+2. 🎉 Merged PR [#8](https://github.com/kne-union/fastify-namespace/pull/8) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
+3. 💪 Opened PR [#8](https://github.com/kne-union/fastify-namespace/pull/8) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
+4. 🚀 Published release [3.0.0-alpha.7](https://github.com/kne-union/fastify-sequelize/releases/tag/3.0.0-alpha.7) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
+5. 🎉 Merged PR [#19](https://github.com/kne-union/fastify-sequelize/pull/19) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
 <!--END_SECTION:activity-->
 
 ---
