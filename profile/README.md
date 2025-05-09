@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.2](https://github.com/kne-union/fastify-namespace/releases/tag/1.1.2) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
-2. 🎉 Merged PR [#10](https://github.com/kne-union/fastify-namespace/pull/10) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
-3. 💪 Opened PR [#10](https://github.com/kne-union/fastify-namespace/pull/10) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
-4. 🚀 Published release [1.0.5](https://github.com/kne-union/fastify-shorten/releases/tag/1.0.5) in [kne-union/fastify-shorten](https://github.com/kne-union/fastify-shorten)
-5. 🚀 Published release [3.0.1](https://github.com/kne-union/fastify-sequelize/releases/tag/3.0.1) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
+1. 🚀 Published release [0.1.12](https://github.com/kne-union/button-group/releases/tag/0.1.12) in [kne-union/button-group](https://github.com/kne-union/button-group)
+2. 🎉 Merged PR [#20](https://github.com/kne-union/button-group/pull/20) in [kne-union/button-group](https://github.com/kne-union/button-group)
+3. 💪 Opened PR [#20](https://github.com/kne-union/button-group/pull/20) in [kne-union/button-group](https://github.com/kne-union/button-group)
+4. 🚀 Published release [1.1.2](https://github.com/kne-union/fastify-namespace/releases/tag/1.1.2) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
+5. 🎉 Merged PR [#10](https://github.com/kne-union/fastify-namespace/pull/10) in [kne-union/fastify-namespace](https://github.com/kne-union/fastify-namespace)
 <!--END_SECTION:activity-->
 
 ---
