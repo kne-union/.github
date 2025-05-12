@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.0.2](https://github.com/kne-union/fastify-sequelize/releases/tag/3.0.2) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
-2. 🎉 Merged PR [#22](https://github.com/kne-union/fastify-sequelize/pull/22) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
-3. 💪 Opened PR [#22](https://github.com/kne-union/fastify-sequelize/pull/22) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
-4. 🚀 Published release [2.0.0-alpha.0](https://github.com/kne-union/fastify-file-manager/releases/tag/2.0.0-alpha.0) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
-5. 🎉 Merged PR [#17](https://github.com/kne-union/fastify-file-manager/pull/17) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
+1. 🚀 Published release [1.0.0](https://github.com/kne-union/token-storage/releases/tag/1.0.0) in [kne-union/token-storage](https://github.com/kne-union/token-storage)
+2. 🎉 Merged PR [#1](https://github.com/kne-union/token-storage/pull/1) in [kne-union/token-storage](https://github.com/kne-union/token-storage)
+3. 💪 Opened PR [#1](https://github.com/kne-union/token-storage/pull/1) in [kne-union/token-storage](https://github.com/kne-union/token-storage)
+4. 🚀 Published release [3.0.2](https://github.com/kne-union/fastify-sequelize/releases/tag/3.0.2) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
+5. 🎉 Merged PR [#22](https://github.com/kne-union/fastify-sequelize/pull/22) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
 <!--END_SECTION:activity-->
 
 ---
