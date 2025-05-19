@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/kne-union/captcha-button/releases/tag/1.0.0) in [kne-union/captcha-button](https://github.com/kne-union/captcha-button)
-2. 🎉 Merged PR [#1](https://github.com/kne-union/captcha-button/pull/1) in [kne-union/captcha-button](https://github.com/kne-union/captcha-button)
-3. 💪 Opened PR [#1](https://github.com/kne-union/captcha-button/pull/1) in [kne-union/captcha-button](https://github.com/kne-union/captcha-button)
-4. 🚀 Published release [1.0.0](https://github.com/kne-union/use-refer-navigate/releases/tag/1.0.0) in [kne-union/use-refer-navigate](https://github.com/kne-union/use-refer-navigate)
-5. 🎉 Merged PR [#1](https://github.com/kne-union/use-refer-navigate/pull/1) in [kne-union/use-refer-navigate](https://github.com/kne-union/use-refer-navigate)
+1. 🎉 Merged PR [#2](https://github.com/kne-union/captcha-button/pull/2) in [kne-union/captcha-button](https://github.com/kne-union/captcha-button)
+2. 💪 Opened PR [#2](https://github.com/kne-union/captcha-button/pull/2) in [kne-union/captcha-button](https://github.com/kne-union/captcha-button)
+3. 🚀 Published release [1.0.0](https://github.com/kne-union/captcha-button/releases/tag/1.0.0) in [kne-union/captcha-button](https://github.com/kne-union/captcha-button)
+4. 🎉 Merged PR [#1](https://github.com/kne-union/captcha-button/pull/1) in [kne-union/captcha-button](https://github.com/kne-union/captcha-button)
+5. 💪 Opened PR [#1](https://github.com/kne-union/captcha-button/pull/1) in [kne-union/captcha-button](https://github.com/kne-union/captcha-button)
 <!--END_SECTION:activity-->
 
 ---
