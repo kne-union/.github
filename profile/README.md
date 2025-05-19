@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.0.0-alpha.0](https://github.com/kne-union/fastify-account-v2/releases/tag/2.0.0-alpha.0) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
-2. 🎉 Merged PR [#1](https://github.com/kne-union/fastify-account-v2/pull/1) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
-3. 💪 Opened PR [#1](https://github.com/kne-union/fastify-account-v2/pull/1) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
-4. 🚀 Published release [1.0.0-alpha.1](https://github.com/kne-union/fastify-user/releases/tag/1.0.0-alpha.1) in [kne-union/fastify-user](https://github.com/kne-union/fastify-user)
-5. 🎉 Merged PR [#3](https://github.com/kne-union/fastify-user/pull/3) in [kne-union/fastify-user](https://github.com/kne-union/fastify-user)
+1. 🚀 Published release [1.0.0](https://github.com/kne-union/use-refer-navigate/releases/tag/1.0.0) in [kne-union/use-refer-navigate](https://github.com/kne-union/use-refer-navigate)
+2. 🎉 Merged PR [#1](https://github.com/kne-union/use-refer-navigate/pull/1) in [kne-union/use-refer-navigate](https://github.com/kne-union/use-refer-navigate)
+3. 💪 Opened PR [#1](https://github.com/kne-union/use-refer-navigate/pull/1) in [kne-union/use-refer-navigate](https://github.com/kne-union/use-refer-navigate)
+4. 🚀 Published release [2.0.0-alpha.0](https://github.com/kne-union/fastify-account-v2/releases/tag/2.0.0-alpha.0) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
+5. 🎉 Merged PR [#1](https://github.com/kne-union/fastify-account-v2/pull/1) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
 <!--END_SECTION:activity-->
 
 ---
