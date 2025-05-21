@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.4](https://github.com/kne-union/fastify-aliyun/releases/tag/1.1.4) in [kne-union/fastify-aliyun](https://github.com/kne-union/fastify-aliyun)
-2. 🎉 Merged PR [#8](https://github.com/kne-union/fastify-aliyun/pull/8) in [kne-union/fastify-aliyun](https://github.com/kne-union/fastify-aliyun)
-3. 💪 Opened PR [#8](https://github.com/kne-union/fastify-aliyun/pull/8) in [kne-union/fastify-aliyun](https://github.com/kne-union/fastify-aliyun)
-4. 🚀 Published release [1.0.0](https://github.com/kne-union/components-admin/releases/tag/1.0.0) in [kne-union/components-admin](https://github.com/kne-union/components-admin)
-5. 🎉 Merged PR [#2](https://github.com/kne-union/components-admin/pull/2) in [kne-union/components-admin](https://github.com/kne-union/components-admin)
+1. 🚀 Published release [1.0.7](https://github.com/kne-union/fastify-shorten/releases/tag/1.0.7) in [kne-union/fastify-shorten](https://github.com/kne-union/fastify-shorten)
+2. 🎉 Merged PR [#9](https://github.com/kne-union/fastify-shorten/pull/9) in [kne-union/fastify-shorten](https://github.com/kne-union/fastify-shorten)
+3. 💪 Opened PR [#9](https://github.com/kne-union/fastify-shorten/pull/9) in [kne-union/fastify-shorten](https://github.com/kne-union/fastify-shorten)
+4. 🚀 Published release [1.1.4](https://github.com/kne-union/fastify-aliyun/releases/tag/1.1.4) in [kne-union/fastify-aliyun](https://github.com/kne-union/fastify-aliyun)
+5. 🎉 Merged PR [#8](https://github.com/kne-union/fastify-aliyun/pull/8) in [kne-union/fastify-aliyun](https://github.com/kne-union/fastify-aliyun)
 <!--END_SECTION:activity-->
 
 ---
