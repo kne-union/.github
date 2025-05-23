@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.0](https://github.com/kne-union/pay-details/releases/tag/0.1.0) in [kne-union/pay-details](https://github.com/kne-union/pay-details)
-2. 🎉 Merged PR [#1](https://github.com/kne-union/pay-details/pull/1) in [kne-union/pay-details](https://github.com/kne-union/pay-details)
-3. 💪 Opened PR [#1](https://github.com/kne-union/pay-details/pull/1) in [kne-union/pay-details](https://github.com/kne-union/pay-details)
-4. 🚀 Published release [1.0.0](https://github.com/kne-union/components-trtc-conference/releases/tag/1.0.0) in [kne-union/components-trtc-conference](https://github.com/kne-union/components-trtc-conference)
-5. 🎉 Merged PR [#1](https://github.com/kne-union/components-trtc-conference/pull/1) in [kne-union/components-trtc-conference](https://github.com/kne-union/components-trtc-conference)
+1. 🚀 Published release [0.1.10](https://github.com/kne-union/template-libs/releases/tag/0.1.10) in [kne-union/template-libs](https://github.com/kne-union/template-libs)
+2. 🎉 Merged PR [#11](https://github.com/kne-union/template-libs/pull/11) in [kne-union/template-libs](https://github.com/kne-union/template-libs)
+3. 💪 Opened PR [#11](https://github.com/kne-union/template-libs/pull/11) in [kne-union/template-libs](https://github.com/kne-union/template-libs)
+4. 🚀 Published release [0.1.1](https://github.com/kne-union/pay-details/releases/tag/0.1.1) in [kne-union/pay-details](https://github.com/kne-union/pay-details)
+5. 🎉 Merged PR [#2](https://github.com/kne-union/pay-details/pull/2) in [kne-union/pay-details](https://github.com/kne-union/pay-details)
 <!--END_SECTION:activity-->
 
 ---
