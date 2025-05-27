@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.2](https://github.com/kne-union/axios-fetch/releases/tag/1.0.2) in [kne-union/axios-fetch](https://github.com/kne-union/axios-fetch)
-2. 🎉 Merged PR [#3](https://github.com/kne-union/axios-fetch/pull/3) in [kne-union/axios-fetch](https://github.com/kne-union/axios-fetch)
-3. 💪 Opened PR [#3](https://github.com/kne-union/axios-fetch/pull/3) in [kne-union/axios-fetch](https://github.com/kne-union/axios-fetch)
-4. 🚀 Published release [1.0.1](https://github.com/kne-union/axios-fetch/releases/tag/1.0.1) in [kne-union/axios-fetch](https://github.com/kne-union/axios-fetch)
-5. 🎉 Merged PR [#2](https://github.com/kne-union/axios-fetch/pull/2) in [kne-union/axios-fetch](https://github.com/kne-union/axios-fetch)
+1. 🚀 Published release [1.0.1](https://github.com/kne-union/components-trtc-conference/releases/tag/1.0.1) in [kne-union/components-trtc-conference](https://github.com/kne-union/components-trtc-conference)
+2. 🚀 Published release [1.0.1](https://github.com/kne-union/fastify-trtc-conference/releases/tag/1.0.1) in [kne-union/fastify-trtc-conference](https://github.com/kne-union/fastify-trtc-conference)
+3. 🎉 Merged PR [#2](https://github.com/kne-union/components-trtc-conference/pull/2) in [kne-union/components-trtc-conference](https://github.com/kne-union/components-trtc-conference)
+4. 💪 Opened PR [#2](https://github.com/kne-union/components-trtc-conference/pull/2) in [kne-union/components-trtc-conference](https://github.com/kne-union/components-trtc-conference)
+5. 🎉 Merged PR [#5](https://github.com/kne-union/fastify-trtc-conference/pull/5) in [kne-union/fastify-trtc-conference](https://github.com/kne-union/fastify-trtc-conference)
 <!--END_SECTION:activity-->
 
 ---
