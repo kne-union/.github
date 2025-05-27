@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.1](https://github.com/kne-union/components-admin/releases/tag/1.0.1) in [kne-union/components-admin](https://github.com/kne-union/components-admin)
-2. 🎉 Merged PR [#3](https://github.com/kne-union/components-admin/pull/3) in [kne-union/components-admin](https://github.com/kne-union/components-admin)
-3. 💪 Opened PR [#3](https://github.com/kne-union/components-admin/pull/3) in [kne-union/components-admin](https://github.com/kne-union/components-admin)
-4. 🚀 Published release [0.3.20](https://github.com/kne-union/components-core/releases/tag/0.3.20) in [kne-union/components-core](https://github.com/kne-union/components-core)
-5. 🚀 Published release [0.1.19](https://github.com/kne-union/info-page/releases/tag/0.1.19) in [kne-union/info-page](https://github.com/kne-union/info-page)
+1. 🚀 Published release [1.0.2](https://github.com/kne-union/axios-fetch/releases/tag/1.0.2) in [kne-union/axios-fetch](https://github.com/kne-union/axios-fetch)
+2. 🎉 Merged PR [#3](https://github.com/kne-union/axios-fetch/pull/3) in [kne-union/axios-fetch](https://github.com/kne-union/axios-fetch)
+3. 💪 Opened PR [#3](https://github.com/kne-union/axios-fetch/pull/3) in [kne-union/axios-fetch](https://github.com/kne-union/axios-fetch)
+4. 🚀 Published release [1.0.1](https://github.com/kne-union/axios-fetch/releases/tag/1.0.1) in [kne-union/axios-fetch](https://github.com/kne-union/axios-fetch)
+5. 🎉 Merged PR [#2](https://github.com/kne-union/axios-fetch/pull/2) in [kne-union/axios-fetch](https://github.com/kne-union/axios-fetch)
 <!--END_SECTION:activity-->
 
 ---
