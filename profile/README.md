@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/kne-union/npm-tools/pull/57) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
-2. 💪 Opened PR [#57](https://github.com/kne-union/npm-tools/pull/57) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
-3. 🎉 Merged PR [#56](https://github.com/kne-union/npm-tools/pull/56) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
-4. 💪 Opened PR [#56](https://github.com/kne-union/npm-tools/pull/56) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
-5. 🚀 Published release [1.0.2](https://github.com/kne-union/components-trtc-conference/releases/tag/1.0.2) in [kne-union/components-trtc-conference](https://github.com/kne-union/components-trtc-conference)
+1. 🎉 Merged PR [#59](https://github.com/kne-union/npm-tools/pull/59) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
+2. 💪 Opened PR [#59](https://github.com/kne-union/npm-tools/pull/59) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
+3. 🎉 Merged PR [#58](https://github.com/kne-union/npm-tools/pull/58) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
+4. 💪 Opened PR [#58](https://github.com/kne-union/npm-tools/pull/58) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
+5. 🎉 Merged PR [#57](https://github.com/kne-union/npm-tools/pull/57) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
 <!--END_SECTION:activity-->
 
 ---
