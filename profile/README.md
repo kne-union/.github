@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/kne-union/npm-tools/pull/59) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
-2. 💪 Opened PR [#59](https://github.com/kne-union/npm-tools/pull/59) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
-3. 🎉 Merged PR [#58](https://github.com/kne-union/npm-tools/pull/58) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
-4. 💪 Opened PR [#58](https://github.com/kne-union/npm-tools/pull/58) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
-5. 🎉 Merged PR [#57](https://github.com/kne-union/npm-tools/pull/57) in [kne-union/npm-tools](https://github.com/kne-union/npm-tools)
+1. 🚀 Published release [0.1.11](https://github.com/kne-union/template-project/releases/tag/0.1.11) in [kne-union/template-project](https://github.com/kne-union/template-project)
+2. 🚀 Published release [0.1.0](https://github.com/kne-union/template-sdk/releases/tag/0.1.0) in [kne-union/template-sdk](https://github.com/kne-union/template-sdk)
+3. 🎉 Merged PR [#22](https://github.com/kne-union/template-project/pull/22) in [kne-union/template-project](https://github.com/kne-union/template-project)
+4. 💪 Opened PR [#22](https://github.com/kne-union/template-project/pull/22) in [kne-union/template-project](https://github.com/kne-union/template-project)
+5. 🎉 Merged PR [#21](https://github.com/kne-union/template-project/pull/21) in [kne-union/template-project](https://github.com/kne-union/template-project)
 <!--END_SECTION:activity-->
 
 ---
