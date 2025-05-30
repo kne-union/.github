@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0-alpha.0](https://github.com/kne-union/fastify-signature/releases/tag/1.0.0-alpha.0) in [kne-union/fastify-signature](https://github.com/kne-union/fastify-signature)
-2. 🎉 Merged PR [#1](https://github.com/kne-union/fastify-signature/pull/1) in [kne-union/fastify-signature](https://github.com/kne-union/fastify-signature)
-3. 💪 Opened PR [#1](https://github.com/kne-union/fastify-signature/pull/1) in [kne-union/fastify-signature](https://github.com/kne-union/fastify-signature)
-4. 🚀 Published release [2.0.0-alpha.1](https://github.com/kne-union/fastify-file-manager/releases/tag/2.0.0-alpha.1) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
-5. 🎉 Merged PR [#18](https://github.com/kne-union/fastify-file-manager/pull/18) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
+1. 🚀 Published release [1.0.0-alpha.1](https://github.com/kne-union/fastify-signature/releases/tag/1.0.0-alpha.1) in [kne-union/fastify-signature](https://github.com/kne-union/fastify-signature)
+2. 🎉 Merged PR [#2](https://github.com/kne-union/fastify-signature/pull/2) in [kne-union/fastify-signature](https://github.com/kne-union/fastify-signature)
+3. 💪 Opened PR [#2](https://github.com/kne-union/fastify-signature/pull/2) in [kne-union/fastify-signature](https://github.com/kne-union/fastify-signature)
+4. 🚀 Published release [1.0.6](https://github.com/kne-union/fastify-trtc-conference/releases/tag/1.0.6) in [kne-union/fastify-trtc-conference](https://github.com/kne-union/fastify-trtc-conference)
+5. 🎉 Merged PR [#10](https://github.com/kne-union/fastify-trtc-conference/pull/10) in [kne-union/fastify-trtc-conference](https://github.com/kne-union/fastify-trtc-conference)
 <!--END_SECTION:activity-->
 
 ---
