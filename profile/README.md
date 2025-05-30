@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.11](https://github.com/kne-union/template-project/releases/tag/0.1.11) in [kne-union/template-project](https://github.com/kne-union/template-project)
-2. 🚀 Published release [0.1.0](https://github.com/kne-union/template-sdk/releases/tag/0.1.0) in [kne-union/template-sdk](https://github.com/kne-union/template-sdk)
-3. 🎉 Merged PR [#22](https://github.com/kne-union/template-project/pull/22) in [kne-union/template-project](https://github.com/kne-union/template-project)
-4. 💪 Opened PR [#22](https://github.com/kne-union/template-project/pull/22) in [kne-union/template-project](https://github.com/kne-union/template-project)
-5. 🎉 Merged PR [#21](https://github.com/kne-union/template-project/pull/21) in [kne-union/template-project](https://github.com/kne-union/template-project)
+1. 🚀 Published release [2.0.0-alpha.1](https://github.com/kne-union/fastify-file-manager/releases/tag/2.0.0-alpha.1) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
+2. 🎉 Merged PR [#18](https://github.com/kne-union/fastify-file-manager/pull/18) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
+3. 💪 Opened PR [#18](https://github.com/kne-union/fastify-file-manager/pull/18) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
+4. 🚀 Published release [0.1.11](https://github.com/kne-union/template-project/releases/tag/0.1.11) in [kne-union/template-project](https://github.com/kne-union/template-project)
+5. 🚀 Published release [0.1.0](https://github.com/kne-union/template-sdk/releases/tag/0.1.0) in [kne-union/template-sdk](https://github.com/kne-union/template-sdk)
 <!--END_SECTION:activity-->
 
 ---
