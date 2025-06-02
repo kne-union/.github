@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/kne-union/wuye/pull/1) in [kne-union/wuye](https://github.com/kne-union/wuye)
-2. 💪 Opened PR [#1](https://github.com/kne-union/wuye/pull/1) in [kne-union/wuye](https://github.com/kne-union/wuye)
-3. 🚀 Published release [1.0.0-alpha.3](https://github.com/kne-union/fastify-signature/releases/tag/1.0.0-alpha.3) in [kne-union/fastify-signature](https://github.com/kne-union/fastify-signature)
-4. 🎉 Merged PR [#4](https://github.com/kne-union/fastify-signature/pull/4) in [kne-union/fastify-signature](https://github.com/kne-union/fastify-signature)
-5. 🚀 Published release [0.1.0](https://github.com/kne-union/components-signature/releases/tag/0.1.0) in [kne-union/components-signature](https://github.com/kne-union/components-signature)
+1. 🎉 Merged PR [#3](https://github.com/kne-union/wuye/pull/3) in [kne-union/wuye](https://github.com/kne-union/wuye)
+2. 💪 Opened PR [#3](https://github.com/kne-union/wuye/pull/3) in [kne-union/wuye](https://github.com/kne-union/wuye)
+3. 🎉 Merged PR [#2](https://github.com/kne-union/wuye/pull/2) in [kne-union/wuye](https://github.com/kne-union/wuye)
+4. 💪 Opened PR [#2](https://github.com/kne-union/wuye/pull/2) in [kne-union/wuye](https://github.com/kne-union/wuye)
+5. 🎉 Merged PR [#1](https://github.com/kne-union/wuye/pull/1) in [kne-union/wuye](https://github.com/kne-union/wuye)
 <!--END_SECTION:activity-->
 
 ---
