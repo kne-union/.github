@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.0.3](https://github.com/kne-union/fastify-file-manager/releases/tag/2.0.3) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
-2. 🎉 Merged PR [#22](https://github.com/kne-union/fastify-file-manager/pull/22) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
-3. 💪 Opened PR [#22](https://github.com/kne-union/fastify-file-manager/pull/22) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
-4. 🚀 Published release [2.0.2](https://github.com/kne-union/fastify-file-manager/releases/tag/2.0.2) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
-5. 🎉 Merged PR [#21](https://github.com/kne-union/fastify-file-manager/pull/21) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
+1. 💪 Opened PR [#4](https://github.com/kne-union/components-signature/pull/4) in [kne-union/components-signature](https://github.com/kne-union/components-signature)
+2. 🎉 Merged PR [#3](https://github.com/kne-union/components-signature/pull/3) in [kne-union/components-signature](https://github.com/kne-union/components-signature)
+3. 💪 Opened PR [#3](https://github.com/kne-union/components-signature/pull/3) in [kne-union/components-signature](https://github.com/kne-union/components-signature)
+4. ❌ Closed PR [#2](https://github.com/kne-union/components-signature/pull/2) in [kne-union/components-signature](https://github.com/kne-union/components-signature)
+5. 🚀 Published release [1.0.9](https://github.com/kne-union/fastify-trtc-conference/releases/tag/1.0.9) in [kne-union/fastify-trtc-conference](https://github.com/kne-union/fastify-trtc-conference)
 <!--END_SECTION:activity-->
 
 ---
