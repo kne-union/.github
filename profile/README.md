@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.10](https://github.com/kne-union/fastify-trtc-conference/releases/tag/1.0.10) in [kne-union/fastify-trtc-conference](https://github.com/kne-union/fastify-trtc-conference)
-2. 🎉 Merged PR [#14](https://github.com/kne-union/fastify-trtc-conference/pull/14) in [kne-union/fastify-trtc-conference](https://github.com/kne-union/fastify-trtc-conference)
-3. 💪 Opened PR [#14](https://github.com/kne-union/fastify-trtc-conference/pull/14) in [kne-union/fastify-trtc-conference](https://github.com/kne-union/fastify-trtc-conference)
-4. 🚀 Published release [0.1.2](https://github.com/kne-union/components-signature/releases/tag/0.1.2) in [kne-union/components-signature](https://github.com/kne-union/components-signature)
-5. 🎉 Merged PR [#4](https://github.com/kne-union/components-signature/pull/4) in [kne-union/components-signature](https://github.com/kne-union/components-signature)
+1. 🚀 Published release [1.0.3](https://github.com/kne-union/components-admin/releases/tag/1.0.3) in [kne-union/components-admin](https://github.com/kne-union/components-admin)
+2. 🎉 Merged PR [#5](https://github.com/kne-union/components-admin/pull/5) in [kne-union/components-admin](https://github.com/kne-union/components-admin)
+3. 💪 Opened PR [#5](https://github.com/kne-union/components-admin/pull/5) in [kne-union/components-admin](https://github.com/kne-union/components-admin)
+4. 🚀 Published release [1.0.10](https://github.com/kne-union/fastify-trtc-conference/releases/tag/1.0.10) in [kne-union/fastify-trtc-conference](https://github.com/kne-union/fastify-trtc-conference)
+5. 🎉 Merged PR [#14](https://github.com/kne-union/fastify-trtc-conference/pull/14) in [kne-union/fastify-trtc-conference](https://github.com/kne-union/fastify-trtc-conference)
 <!--END_SECTION:activity-->
 
 ---
