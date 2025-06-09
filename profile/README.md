@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0-alpha.0](https://github.com/kne-union/fastify-message/releases/tag/1.0.0-alpha.0) in [kne-union/fastify-message](https://github.com/kne-union/fastify-message)
-2. 🎉 Merged PR [#2](https://github.com/kne-union/fastify-message/pull/2) in [kne-union/fastify-message](https://github.com/kne-union/fastify-message)
-3. 💪 Opened PR [#2](https://github.com/kne-union/fastify-message/pull/2) in [kne-union/fastify-message](https://github.com/kne-union/fastify-message)
-4. 🎉 Merged PR [#1](https://github.com/kne-union/fastify-message/pull/1) in [kne-union/fastify-message](https://github.com/kne-union/fastify-message)
-5. 💪 Opened PR [#1](https://github.com/kne-union/fastify-message/pull/1) in [kne-union/fastify-message](https://github.com/kne-union/fastify-message)
+1. 🚀 Published release [1.0.0-alpha.1](https://github.com/kne-union/fastify-message/releases/tag/1.0.0-alpha.1) in [kne-union/fastify-message](https://github.com/kne-union/fastify-message)
+2. 🎉 Merged PR [#3](https://github.com/kne-union/fastify-message/pull/3) in [kne-union/fastify-message](https://github.com/kne-union/fastify-message)
+3. 💪 Opened PR [#3](https://github.com/kne-union/fastify-message/pull/3) in [kne-union/fastify-message](https://github.com/kne-union/fastify-message)
+4. 🚀 Published release [1.0.0-alpha.0](https://github.com/kne-union/fastify-message/releases/tag/1.0.0-alpha.0) in [kne-union/fastify-message](https://github.com/kne-union/fastify-message)
+5. 🎉 Merged PR [#2](https://github.com/kne-union/fastify-message/pull/2) in [kne-union/fastify-message](https://github.com/kne-union/fastify-message)
 <!--END_SECTION:activity-->
 
 ---
