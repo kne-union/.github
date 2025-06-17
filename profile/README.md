@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.3.25](https://github.com/kne-union/components-core/releases/tag/0.3.25) in [kne-union/components-core](https://github.com/kne-union/components-core)
-2. 🎉 Merged PR [#451](https://github.com/kne-union/components-core/pull/451) in [kne-union/components-core](https://github.com/kne-union/components-core)
-3. 💪 Opened PR [#451](https://github.com/kne-union/components-core/pull/451) in [kne-union/components-core](https://github.com/kne-union/components-core)
-4. 🎉 Merged PR [#450](https://github.com/kne-union/components-core/pull/450) in [kne-union/components-core](https://github.com/kne-union/components-core)
-5. 💪 Opened PR [#450](https://github.com/kne-union/components-core/pull/450) in [kne-union/components-core](https://github.com/kne-union/components-core)
+1. 💪 Opened PR [#23](https://github.com/kne-union/fastify-file-manager/pull/23) in [kne-union/fastify-file-manager](https://github.com/kne-union/fastify-file-manager)
+2. 🚀 Published release [1.1.5](https://github.com/kne-union/fastify-aliyun/releases/tag/1.1.5) in [kne-union/fastify-aliyun](https://github.com/kne-union/fastify-aliyun)
+3. 🎉 Merged PR [#9](https://github.com/kne-union/fastify-aliyun/pull/9) in [kne-union/fastify-aliyun](https://github.com/kne-union/fastify-aliyun)
+4. 💪 Opened PR [#9](https://github.com/kne-union/fastify-aliyun/pull/9) in [kne-union/fastify-aliyun](https://github.com/kne-union/fastify-aliyun)
+5. 🚀 Published release [0.3.25](https://github.com/kne-union/components-core/releases/tag/0.3.25) in [kne-union/components-core](https://github.com/kne-union/components-core)
 <!--END_SECTION:activity-->
 
 ---
