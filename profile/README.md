@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.14](https://github.com/kne-union/components-trtc-conference/releases/tag/1.0.14) in [kne-union/components-trtc-conference](https://github.com/kne-union/components-trtc-conference)
-2. 🎉 Merged PR [#15](https://github.com/kne-union/components-trtc-conference/pull/15) in [kne-union/components-trtc-conference](https://github.com/kne-union/components-trtc-conference)
-3. 💪 Opened PR [#15](https://github.com/kne-union/components-trtc-conference/pull/15) in [kne-union/components-trtc-conference](https://github.com/kne-union/components-trtc-conference)
-4. 🚀 Published release [1.0.13](https://github.com/kne-union/components-trtc-conference/releases/tag/1.0.13) in [kne-union/components-trtc-conference](https://github.com/kne-union/components-trtc-conference)
-5. 🎉 Merged PR [#14](https://github.com/kne-union/components-trtc-conference/pull/14) in [kne-union/components-trtc-conference](https://github.com/kne-union/components-trtc-conference)
+1. 🎉 Merged PR [#457](https://github.com/kne-union/components-core/pull/457) in [kne-union/components-core](https://github.com/kne-union/components-core)
+2. 💪 Opened PR [#457](https://github.com/kne-union/components-core/pull/457) in [kne-union/components-core](https://github.com/kne-union/components-core)
+3. 🎉 Merged PR [#456](https://github.com/kne-union/components-core/pull/456) in [kne-union/components-core](https://github.com/kne-union/components-core)
+4. 💪 Opened PR [#456](https://github.com/kne-union/components-core/pull/456) in [kne-union/components-core](https://github.com/kne-union/components-core)
+5. 🚀 Published release [1.0.14](https://github.com/kne-union/components-trtc-conference/releases/tag/1.0.14) in [kne-union/components-trtc-conference](https://github.com/kne-union/components-trtc-conference)
 <!--END_SECTION:activity-->
 
 ---
