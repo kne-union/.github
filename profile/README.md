@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.3.29](https://github.com/kne-union/components-core/releases/tag/0.3.29) in [kne-union/components-core](https://github.com/kne-union/components-core)
-2. 🎉 Merged PR [#459](https://github.com/kne-union/components-core/pull/459) in [kne-union/components-core](https://github.com/kne-union/components-core)
-3. 💪 Opened PR [#459](https://github.com/kne-union/components-core/pull/459) in [kne-union/components-core](https://github.com/kne-union/components-core)
-4. 🎉 Merged PR [#458](https://github.com/kne-union/components-core/pull/458) in [kne-union/components-core](https://github.com/kne-union/components-core)
-5. 💪 Opened PR [#458](https://github.com/kne-union/components-core/pull/458) in [kne-union/components-core](https://github.com/kne-union/components-core)
+1. 🎉 Merged PR [#6](https://github.com/kne-union/node-webpage-print/pull/6) in [kne-union/node-webpage-print](https://github.com/kne-union/node-webpage-print)
+2. 💪 Opened PR [#6](https://github.com/kne-union/node-webpage-print/pull/6) in [kne-union/node-webpage-print](https://github.com/kne-union/node-webpage-print)
+3. 🎉 Merged PR [#5](https://github.com/kne-union/node-webpage-print/pull/5) in [kne-union/node-webpage-print](https://github.com/kne-union/node-webpage-print)
+4. 💪 Opened PR [#5](https://github.com/kne-union/node-webpage-print/pull/5) in [kne-union/node-webpage-print](https://github.com/kne-union/node-webpage-print)
+5. 🚀 Published release [1.1.1](https://github.com/kne-union/fastify-puppeteer/releases/tag/1.1.1) in [kne-union/fastify-puppeteer](https://github.com/kne-union/fastify-puppeteer)
 <!--END_SECTION:activity-->
 
 ---
