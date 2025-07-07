@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.2](https://github.com/kne-union/fastify-puppeteer/releases/tag/1.1.2) in [kne-union/fastify-puppeteer](https://github.com/kne-union/fastify-puppeteer)
-2. 🎉 Merged PR [#4](https://github.com/kne-union/fastify-puppeteer/pull/4) in [kne-union/fastify-puppeteer](https://github.com/kne-union/fastify-puppeteer)
-3. 💪 Opened PR [#4](https://github.com/kne-union/fastify-puppeteer/pull/4) in [kne-union/fastify-puppeteer](https://github.com/kne-union/fastify-puppeteer)
-4. 🎉 Merged PR [#465](https://github.com/kne-union/components-core/pull/465) in [kne-union/components-core](https://github.com/kne-union/components-core)
-5. 🎉 Merged PR [#10](https://github.com/kne-union/node-webpage-print/pull/10) in [kne-union/node-webpage-print](https://github.com/kne-union/node-webpage-print)
+1. 🚀 Published release [1.1.3](https://github.com/kne-union/fastify-puppeteer/releases/tag/1.1.3) in [kne-union/fastify-puppeteer](https://github.com/kne-union/fastify-puppeteer)
+2. 🎉 Merged PR [#5](https://github.com/kne-union/fastify-puppeteer/pull/5) in [kne-union/fastify-puppeteer](https://github.com/kne-union/fastify-puppeteer)
+3. 💪 Opened PR [#5](https://github.com/kne-union/fastify-puppeteer/pull/5) in [kne-union/fastify-puppeteer](https://github.com/kne-union/fastify-puppeteer)
+4. 🚀 Published release [1.1.2](https://github.com/kne-union/fastify-puppeteer/releases/tag/1.1.2) in [kne-union/fastify-puppeteer](https://github.com/kne-union/fastify-puppeteer)
+5. 🎉 Merged PR [#4](https://github.com/kne-union/fastify-puppeteer/pull/4) in [kne-union/fastify-puppeteer](https://github.com/kne-union/fastify-puppeteer)
 <!--END_SECTION:activity-->
 
 ---
