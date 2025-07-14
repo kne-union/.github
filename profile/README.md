@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.6](https://github.com/kne-union/template-example/releases/tag/0.1.6) in [kne-union/template-example](https://github.com/kne-union/template-example)
-2. 🎉 Merged PR [#9](https://github.com/kne-union/template-example/pull/9) in [kne-union/template-example](https://github.com/kne-union/template-example)
-3. 💪 Opened PR [#9](https://github.com/kne-union/template-example/pull/9) in [kne-union/template-example](https://github.com/kne-union/template-example)
-4. 🎉 Merged PR [#12](https://github.com/kne-union/template-libs/pull/12) in [kne-union/template-libs](https://github.com/kne-union/template-libs)
-5. 💪 Opened PR [#12](https://github.com/kne-union/template-libs/pull/12) in [kne-union/template-libs](https://github.com/kne-union/template-libs)
+1. 🚀 Published release [0.1.1](https://github.com/kne-union/captcha-sender/releases/tag/0.1.1) in [kne-union/captcha-sender](https://github.com/kne-union/captcha-sender)
+2. 🎉 Merged PR [#2](https://github.com/kne-union/captcha-sender/pull/2) in [kne-union/captcha-sender](https://github.com/kne-union/captcha-sender)
+3. 💪 Opened PR [#2](https://github.com/kne-union/captcha-sender/pull/2) in [kne-union/captcha-sender](https://github.com/kne-union/captcha-sender)
+4. 🚀 Published release [1.0.22](https://github.com/kne-union/fastify-trtc-conference/releases/tag/1.0.22) in [kne-union/fastify-trtc-conference](https://github.com/kne-union/fastify-trtc-conference)
+5. 🎉 Merged PR [#26](https://github.com/kne-union/fastify-trtc-conference/pull/26) in [kne-union/fastify-trtc-conference](https://github.com/kne-union/fastify-trtc-conference)
 <!--END_SECTION:activity-->
 
 ---
