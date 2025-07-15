@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.4.4](https://github.com/kne-union/components-core/releases/tag/0.4.4) in [kne-union/components-core](https://github.com/kne-union/components-core)
-2. 🎉 Merged PR [#477](https://github.com/kne-union/components-core/pull/477) in [kne-union/components-core](https://github.com/kne-union/components-core)
-3. 💪 Opened PR [#477](https://github.com/kne-union/components-core/pull/477) in [kne-union/components-core](https://github.com/kne-union/components-core)
-4. 🎉 Merged PR [#476](https://github.com/kne-union/components-core/pull/476) in [kne-union/components-core](https://github.com/kne-union/components-core)
-5. 💪 Opened PR [#476](https://github.com/kne-union/components-core/pull/476) in [kne-union/components-core](https://github.com/kne-union/components-core)
+1. 🚀 Published release [0.1.1](https://github.com/kne-union/fastify-tencent/releases/tag/0.1.1) in [kne-union/fastify-tencent](https://github.com/kne-union/fastify-tencent)
+2. 🎉 Merged PR [#2](https://github.com/kne-union/fastify-tencent/pull/2) in [kne-union/fastify-tencent](https://github.com/kne-union/fastify-tencent)
+3. 💪 Opened PR [#2](https://github.com/kne-union/fastify-tencent/pull/2) in [kne-union/fastify-tencent](https://github.com/kne-union/fastify-tencent)
+4. 🚀 Published release [0.1.0](https://github.com/kne-union/fastify-tencent/releases/tag/0.1.0) in [kne-union/fastify-tencent](https://github.com/kne-union/fastify-tencent)
+5. 🎉 Merged PR [#1](https://github.com/kne-union/fastify-tencent/pull/1) in [kne-union/fastify-tencent](https://github.com/kne-union/fastify-tencent)
 <!--END_SECTION:activity-->
 
 ---
