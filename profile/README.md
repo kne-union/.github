@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.1](https://github.com/kne-union/captcha-sender/releases/tag/0.1.1) in [kne-union/captcha-sender](https://github.com/kne-union/captcha-sender)
-2. 🎉 Merged PR [#2](https://github.com/kne-union/captcha-sender/pull/2) in [kne-union/captcha-sender](https://github.com/kne-union/captcha-sender)
-3. 💪 Opened PR [#2](https://github.com/kne-union/captcha-sender/pull/2) in [kne-union/captcha-sender](https://github.com/kne-union/captcha-sender)
-4. 🚀 Published release [1.0.22](https://github.com/kne-union/fastify-trtc-conference/releases/tag/1.0.22) in [kne-union/fastify-trtc-conference](https://github.com/kne-union/fastify-trtc-conference)
-5. 🎉 Merged PR [#26](https://github.com/kne-union/fastify-trtc-conference/pull/26) in [kne-union/fastify-trtc-conference](https://github.com/kne-union/fastify-trtc-conference)
+1. 🚀 Published release [0.4.4](https://github.com/kne-union/components-core/releases/tag/0.4.4) in [kne-union/components-core](https://github.com/kne-union/components-core)
+2. 🎉 Merged PR [#477](https://github.com/kne-union/components-core/pull/477) in [kne-union/components-core](https://github.com/kne-union/components-core)
+3. 💪 Opened PR [#477](https://github.com/kne-union/components-core/pull/477) in [kne-union/components-core](https://github.com/kne-union/components-core)
+4. 🎉 Merged PR [#476](https://github.com/kne-union/components-core/pull/476) in [kne-union/components-core](https://github.com/kne-union/components-core)
+5. 💪 Opened PR [#476](https://github.com/kne-union/components-core/pull/476) in [kne-union/components-core](https://github.com/kne-union/components-core)
 <!--END_SECTION:activity-->
 
 ---
