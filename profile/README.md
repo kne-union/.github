@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/kne-union/template-fastify-libs/pull/1) in [kne-union/template-fastify-libs](https://github.com/kne-union/template-fastify-libs)
-2. 💪 Opened PR [#1](https://github.com/kne-union/template-fastify-libs/pull/1) in [kne-union/template-fastify-libs](https://github.com/kne-union/template-fastify-libs)
-3. 🚀 Published release [0.1.0](https://github.com/kne-union/template-fastify-lib/releases/tag/0.1.0) in [kne-union/template-fastify-lib](https://github.com/kne-union/template-fastify-lib)
-4. 🎉 Merged PR [#1](https://github.com/kne-union/template-fastify-lib/pull/1) in [kne-union/template-fastify-lib](https://github.com/kne-union/template-fastify-lib)
-5. 💪 Opened PR [#1](https://github.com/kne-union/template-fastify-lib/pull/1) in [kne-union/template-fastify-lib](https://github.com/kne-union/template-fastify-lib)
+1. 🎉 Merged PR [#2](https://github.com/kne-union/template-sdk/pull/2) in [kne-union/template-sdk](https://github.com/kne-union/template-sdk)
+2. 💪 Opened PR [#2](https://github.com/kne-union/template-sdk/pull/2) in [kne-union/template-sdk](https://github.com/kne-union/template-sdk)
+3. 🎉 Merged PR [#3](https://github.com/kne-union/template-fastify-libs/pull/3) in [kne-union/template-fastify-libs](https://github.com/kne-union/template-fastify-libs)
+4. 💪 Opened PR [#3](https://github.com/kne-union/template-fastify-libs/pull/3) in [kne-union/template-fastify-libs](https://github.com/kne-union/template-fastify-libs)
+5. 🚀 Published release [0.1.0](https://github.com/kne-union/template-fastify-libs/releases/tag/0.1.0) in [kne-union/template-fastify-libs](https://github.com/kne-union/template-fastify-libs)
 <!--END_SECTION:activity-->
 
 ---
