@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/kne-union/react-file/pull/22) in [kne-union/react-file](https://github.com/kne-union/react-file)
-2. 💪 Opened PR [#22](https://github.com/kne-union/react-file/pull/22) in [kne-union/react-file](https://github.com/kne-union/react-file)
-3. 🚀 Published release [0.1.0-alpha.1](https://github.com/kne-union/fastify-trtc/releases/tag/0.1.0-alpha.1) in [kne-union/fastify-trtc](https://github.com/kne-union/fastify-trtc)
-4. 🎉 Merged PR [#2](https://github.com/kne-union/fastify-trtc/pull/2) in [kne-union/fastify-trtc](https://github.com/kne-union/fastify-trtc)
-5. 💪 Opened PR [#2](https://github.com/kne-union/fastify-trtc/pull/2) in [kne-union/fastify-trtc](https://github.com/kne-union/fastify-trtc)
+1. 🚀 Published release [0.4.6](https://github.com/kne-union/components-core/releases/tag/0.4.6) in [kne-union/components-core](https://github.com/kne-union/components-core)
+2. 🎉 Merged PR [#481](https://github.com/kne-union/components-core/pull/481) in [kne-union/components-core](https://github.com/kne-union/components-core)
+3. 💪 Opened PR [#481](https://github.com/kne-union/components-core/pull/481) in [kne-union/components-core](https://github.com/kne-union/components-core)
+4. 🎉 Merged PR [#480](https://github.com/kne-union/components-core/pull/480) in [kne-union/components-core](https://github.com/kne-union/components-core)
+5. 💪 Opened PR [#480](https://github.com/kne-union/components-core/pull/480) in [kne-union/components-core](https://github.com/kne-union/components-core)
 <!--END_SECTION:activity-->
 
 ---
