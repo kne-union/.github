@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.4.9](https://github.com/kne-union/components-core/releases/tag/0.4.9) in [kne-union/components-core](https://github.com/kne-union/components-core)
-2. 🎉 Merged PR [#490](https://github.com/kne-union/components-core/pull/490) in [kne-union/components-core](https://github.com/kne-union/components-core)
-3. 💪 Opened PR [#490](https://github.com/kne-union/components-core/pull/490) in [kne-union/components-core](https://github.com/kne-union/components-core)
-4. 🎉 Merged PR [#489](https://github.com/kne-union/components-core/pull/489) in [kne-union/components-core](https://github.com/kne-union/components-core)
-5. 💪 Opened PR [#489](https://github.com/kne-union/components-core/pull/489) in [kne-union/components-core](https://github.com/kne-union/components-core)
+1. 🚀 Published release [0.1.3-alpha.5](https://github.com/kne-union/fastify-webhook/releases/tag/0.1.3-alpha.5) in [kne-union/fastify-webhook](https://github.com/kne-union/fastify-webhook)
+2. 🎉 Merged PR [#9](https://github.com/kne-union/fastify-webhook/pull/9) in [kne-union/fastify-webhook](https://github.com/kne-union/fastify-webhook)
+3. 💪 Opened PR [#9](https://github.com/kne-union/fastify-webhook/pull/9) in [kne-union/fastify-webhook](https://github.com/kne-union/fastify-webhook)
+4. 🚀 Published release [1.0.9](https://github.com/kne-union/components-admin/releases/tag/1.0.9) in [kne-union/components-admin](https://github.com/kne-union/components-admin)
+5. 🚀 Published release [1.0.8](https://github.com/kne-union/components-admin/releases/tag/1.0.8) in [kne-union/components-admin](https://github.com/kne-union/components-admin)
 <!--END_SECTION:activity-->
 
 ---
