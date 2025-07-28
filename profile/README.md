@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.0-alpha.3](https://github.com/kne-union/fastify-trtc/releases/tag/0.1.0-alpha.3) in [kne-union/fastify-trtc](https://github.com/kne-union/fastify-trtc)
-2. 🎉 Merged PR [#4](https://github.com/kne-union/fastify-trtc/pull/4) in [kne-union/fastify-trtc](https://github.com/kne-union/fastify-trtc)
-3. 💪 Opened PR [#4](https://github.com/kne-union/fastify-trtc/pull/4) in [kne-union/fastify-trtc](https://github.com/kne-union/fastify-trtc)
-4. 🚀 Published release [1.0.10](https://github.com/kne-union/components-admin/releases/tag/1.0.10) in [kne-union/components-admin](https://github.com/kne-union/components-admin)
-5. 🚀 Published release [0.1.3-alpha.6](https://github.com/kne-union/fastify-webhook/releases/tag/0.1.3-alpha.6) in [kne-union/fastify-webhook](https://github.com/kne-union/fastify-webhook)
+1. 🚀 Published release [0.1.0-alpha.4](https://github.com/kne-union/fastify-trtc/releases/tag/0.1.0-alpha.4) in [kne-union/fastify-trtc](https://github.com/kne-union/fastify-trtc)
+2. 🎉 Merged PR [#5](https://github.com/kne-union/fastify-trtc/pull/5) in [kne-union/fastify-trtc](https://github.com/kne-union/fastify-trtc)
+3. 💪 Opened PR [#5](https://github.com/kne-union/fastify-trtc/pull/5) in [kne-union/fastify-trtc](https://github.com/kne-union/fastify-trtc)
+4. 🚀 Published release [0.1.0-alpha.3](https://github.com/kne-union/fastify-trtc/releases/tag/0.1.0-alpha.3) in [kne-union/fastify-trtc](https://github.com/kne-union/fastify-trtc)
+5. 🎉 Merged PR [#4](https://github.com/kne-union/fastify-trtc/pull/4) in [kne-union/fastify-trtc](https://github.com/kne-union/fastify-trtc)
 <!--END_SECTION:activity-->
 
 ---
