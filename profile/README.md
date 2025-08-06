@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.2](https://github.com/kne-union/react-form-plus/releases/tag/0.1.2) in [kne-union/react-form-plus](https://github.com/kne-union/react-form-plus)
-2. 🎉 Merged PR [#9](https://github.com/kne-union/react-form-plus/pull/9) in [kne-union/react-form-plus](https://github.com/kne-union/react-form-plus)
-3. 💪 Opened PR [#9](https://github.com/kne-union/react-form-plus/pull/9) in [kne-union/react-form-plus](https://github.com/kne-union/react-form-plus)
-4. 🚀 Published release [0.1.10](https://github.com/kne-union/fastify-task/releases/tag/0.1.10) in [kne-union/fastify-task](https://github.com/kne-union/fastify-task)
-5. 🎉 Merged PR [#14](https://github.com/kne-union/fastify-task/pull/14) in [kne-union/fastify-task](https://github.com/kne-union/fastify-task)
+1. 🚀 Published release [0.1.23](https://github.com/kne-union/react-file/releases/tag/0.1.23) in [kne-union/react-file](https://github.com/kne-union/react-file)
+2. 🎉 Merged PR [#25](https://github.com/kne-union/react-file/pull/25) in [kne-union/react-file](https://github.com/kne-union/react-file)
+3. 💪 Opened PR [#25](https://github.com/kne-union/react-file/pull/25) in [kne-union/react-file](https://github.com/kne-union/react-file)
+4. 🚀 Published release [2.0.0-alpha.5](https://github.com/kne-union/fastify-account-v2/releases/tag/2.0.0-alpha.5) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
+5. 🎉 Merged PR [#6](https://github.com/kne-union/fastify-account-v2/pull/6) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
 <!--END_SECTION:activity-->
 
 ---
