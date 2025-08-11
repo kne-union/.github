@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/kne-union/scroll-loader/pull/11) in [kne-union/scroll-loader](https://github.com/kne-union/scroll-loader)
-2. 💪 Opened PR [#11](https://github.com/kne-union/scroll-loader/pull/11) in [kne-union/scroll-loader](https://github.com/kne-union/scroll-loader)
-3. 🚀 Published release [0.1.7](https://github.com/kne-union/components-field/releases/tag/0.1.7) in [kne-union/components-field](https://github.com/kne-union/components-field)
-4. 🎉 Merged PR [#12](https://github.com/kne-union/components-field/pull/12) in [kne-union/components-field](https://github.com/kne-union/components-field)
-5. 💪 Opened PR [#12](https://github.com/kne-union/components-field/pull/12) in [kne-union/components-field](https://github.com/kne-union/components-field)
+1. 🚀 Published release [3.2.0](https://github.com/kne-union/fastify-sequelize/releases/tag/3.2.0) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
+2. 🎉 Merged PR [#29](https://github.com/kne-union/fastify-sequelize/pull/29) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
+3. 💪 Opened PR [#29](https://github.com/kne-union/fastify-sequelize/pull/29) in [kne-union/fastify-sequelize](https://github.com/kne-union/fastify-sequelize)
+4. 🎉 Merged PR [#11](https://github.com/kne-union/scroll-loader/pull/11) in [kne-union/scroll-loader](https://github.com/kne-union/scroll-loader)
+5. 💪 Opened PR [#11](https://github.com/kne-union/scroll-loader/pull/11) in [kne-union/scroll-loader](https://github.com/kne-union/scroll-loader)
 <!--END_SECTION:activity-->
 
 ---
