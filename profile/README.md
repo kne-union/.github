@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.4](https://github.com/kne-union/entry-selector/releases/tag/0.1.4) in [kne-union/entry-selector](https://github.com/kne-union/entry-selector)
-2. 🎉 Merged PR [#5](https://github.com/kne-union/entry-selector/pull/5) in [kne-union/entry-selector](https://github.com/kne-union/entry-selector)
-3. 💪 Opened PR [#5](https://github.com/kne-union/entry-selector/pull/5) in [kne-union/entry-selector](https://github.com/kne-union/entry-selector)
-4. 🎉 Merged PR [#4](https://github.com/kne-union/entry-selector/pull/4) in [kne-union/entry-selector](https://github.com/kne-union/entry-selector)
-5. 💪 Opened PR [#4](https://github.com/kne-union/entry-selector/pull/4) in [kne-union/entry-selector](https://github.com/kne-union/entry-selector)
+1. 🚀 Published release [0.1.6](https://github.com/kne-union/entry-selector/releases/tag/0.1.6) in [kne-union/entry-selector](https://github.com/kne-union/entry-selector)
+2. 🎉 Merged PR [#7](https://github.com/kne-union/entry-selector/pull/7) in [kne-union/entry-selector](https://github.com/kne-union/entry-selector)
+3. 💪 Opened PR [#7](https://github.com/kne-union/entry-selector/pull/7) in [kne-union/entry-selector](https://github.com/kne-union/entry-selector)
+4. 🚀 Published release [0.1.5](https://github.com/kne-union/entry-selector/releases/tag/0.1.5) in [kne-union/entry-selector](https://github.com/kne-union/entry-selector)
+5. 🎉 Merged PR [#6](https://github.com/kne-union/entry-selector/pull/6) in [kne-union/entry-selector](https://github.com/kne-union/entry-selector)
 <!--END_SECTION:activity-->
 
 ---
