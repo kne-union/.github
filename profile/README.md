@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.0-alpha.0](https://github.com/kne-union/fastify-group/releases/tag/0.1.0-alpha.0) in [kne-union/fastify-group](https://github.com/kne-union/fastify-group)
-2. 🚀 Published release [1.0.0](https://github.com/kne-union/fastify-task/releases/tag/1.0.0) in [kne-union/fastify-task](https://github.com/kne-union/fastify-task)
-3. 🎉 Merged PR [#20](https://github.com/kne-union/fastify-task/pull/20) in [kne-union/fastify-task](https://github.com/kne-union/fastify-task)
-4. 💪 Opened PR [#20](https://github.com/kne-union/fastify-task/pull/20) in [kne-union/fastify-task](https://github.com/kne-union/fastify-task)
-5. 🎉 Merged PR [#1](https://github.com/kne-union/fastify-group/pull/1) in [kne-union/fastify-group](https://github.com/kne-union/fastify-group)
+1. 🚀 Published release [1.0.1](https://github.com/kne-union/fastify-task/releases/tag/1.0.1) in [kne-union/fastify-task](https://github.com/kne-union/fastify-task)
+2. 🎉 Merged PR [#21](https://github.com/kne-union/fastify-task/pull/21) in [kne-union/fastify-task](https://github.com/kne-union/fastify-task)
+3. 💪 Opened PR [#21](https://github.com/kne-union/fastify-task/pull/21) in [kne-union/fastify-task](https://github.com/kne-union/fastify-task)
+4. 🚀 Published release [0.1.0-alpha.0](https://github.com/kne-union/fastify-group/releases/tag/0.1.0-alpha.0) in [kne-union/fastify-group](https://github.com/kne-union/fastify-group)
+5. 🚀 Published release [1.0.0](https://github.com/kne-union/fastify-task/releases/tag/1.0.0) in [kne-union/fastify-task](https://github.com/kne-union/fastify-task)
 <!--END_SECTION:activity-->
 
 ---
