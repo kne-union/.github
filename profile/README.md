@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#509](https://github.com/kne-union/components-core/pull/509) in [kne-union/components-core](https://github.com/kne-union/components-core)
-2. 💪 Opened PR [#509](https://github.com/kne-union/components-core/pull/509) in [kne-union/components-core](https://github.com/kne-union/components-core)
-3. 🚀 Published release [0.1.23](https://github.com/kne-union/super-select/releases/tag/0.1.23) in [kne-union/super-select](https://github.com/kne-union/super-select)
-4. 🎉 Merged PR [#23](https://github.com/kne-union/super-select/pull/23) in [kne-union/super-select](https://github.com/kne-union/super-select)
-5. 💪 Opened PR [#23](https://github.com/kne-union/super-select/pull/23) in [kne-union/super-select](https://github.com/kne-union/super-select)
+1. 🎉 Merged PR [#12](https://github.com/kne-union/react-enum/pull/12) in [kne-union/react-enum](https://github.com/kne-union/react-enum)
+2. 💪 Opened PR [#510](https://github.com/kne-union/components-core/pull/510) in [kne-union/components-core](https://github.com/kne-union/components-core)
+3. 💪 Opened PR [#12](https://github.com/kne-union/react-enum/pull/12) in [kne-union/react-enum](https://github.com/kne-union/react-enum)
+4. 🎉 Merged PR [#509](https://github.com/kne-union/components-core/pull/509) in [kne-union/components-core](https://github.com/kne-union/components-core)
+5. 💪 Opened PR [#509](https://github.com/kne-union/components-core/pull/509) in [kne-union/components-core](https://github.com/kne-union/components-core)
 <!--END_SECTION:activity-->
 
 ---
