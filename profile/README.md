@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/kne-union/app-children-router/pull/4) in [kne-union/app-children-router](https://github.com/kne-union/app-children-router)
-2. 💪 Opened PR [#4](https://github.com/kne-union/app-children-router/pull/4) in [kne-union/app-children-router](https://github.com/kne-union/app-children-router)
-3. 🚀 Published release [0.1.11](https://github.com/kne-union/react-enum/releases/tag/0.1.11) in [kne-union/react-enum](https://github.com/kne-union/react-enum)
-4. 🎉 Merged PR [#12](https://github.com/kne-union/react-enum/pull/12) in [kne-union/react-enum](https://github.com/kne-union/react-enum)
-5. 💪 Opened PR [#510](https://github.com/kne-union/components-core/pull/510) in [kne-union/components-core](https://github.com/kne-union/components-core)
+1. 🚀 Published release [0.1.8](https://github.com/kne-union/template-components-biz/releases/tag/0.1.8) in [kne-union/template-components-biz](https://github.com/kne-union/template-components-biz)
+2. 🚀 Published release [0.1.3](https://github.com/kne-union/template-components-children-module/releases/tag/0.1.3) in [kne-union/template-components-children-module](https://github.com/kne-union/template-components-children-module)
+3. 🎉 Merged PR [#7](https://github.com/kne-union/template-components-biz/pull/7) in [kne-union/template-components-biz](https://github.com/kne-union/template-components-biz)
+4. 💪 Opened PR [#7](https://github.com/kne-union/template-components-biz/pull/7) in [kne-union/template-components-biz](https://github.com/kne-union/template-components-biz)
+5. 🎉 Merged PR [#3](https://github.com/kne-union/template-components-children-module/pull/3) in [kne-union/template-components-children-module](https://github.com/kne-union/template-components-children-module)
 <!--END_SECTION:activity-->
 
 ---
