@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.9](https://github.com/kne-union/template-components-biz/releases/tag/0.1.9) in [kne-union/template-components-biz](https://github.com/kne-union/template-components-biz)
-2. 🎉 Merged PR [#4](https://github.com/kne-union/template-components-children-module/pull/4) in [kne-union/template-components-children-module](https://github.com/kne-union/template-components-children-module)
-3. 💪 Opened PR [#4](https://github.com/kne-union/template-components-children-module/pull/4) in [kne-union/template-components-children-module](https://github.com/kne-union/template-components-children-module)
-4. 🎉 Merged PR [#8](https://github.com/kne-union/template-components-biz/pull/8) in [kne-union/template-components-biz](https://github.com/kne-union/template-components-biz)
-5. 💪 Opened PR [#8](https://github.com/kne-union/template-components-biz/pull/8) in [kne-union/template-components-biz](https://github.com/kne-union/template-components-biz)
+1. 🚀 Published release [0.1.4](https://github.com/kne-union/template-components-children-module/releases/tag/0.1.4) in [kne-union/template-components-children-module](https://github.com/kne-union/template-components-children-module)
+2. 🚀 Published release [0.1.9](https://github.com/kne-union/template-components-biz/releases/tag/0.1.9) in [kne-union/template-components-biz](https://github.com/kne-union/template-components-biz)
+3. 🎉 Merged PR [#4](https://github.com/kne-union/template-components-children-module/pull/4) in [kne-union/template-components-children-module](https://github.com/kne-union/template-components-children-module)
+4. 💪 Opened PR [#4](https://github.com/kne-union/template-components-children-module/pull/4) in [kne-union/template-components-children-module](https://github.com/kne-union/template-components-children-module)
+5. 🎉 Merged PR [#8](https://github.com/kne-union/template-components-biz/pull/8) in [kne-union/template-components-biz](https://github.com/kne-union/template-components-biz)
 <!--END_SECTION:activity-->
 
 ---
