@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.0.0](https://github.com/kne-union/fastify-account-v2/releases/tag/2.0.0) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
-2. 🎉 Merged PR [#8](https://github.com/kne-union/fastify-account-v2/pull/8) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
-3. 💪 Opened PR [#8](https://github.com/kne-union/fastify-account-v2/pull/8) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
-4. 🚀 Published release [1.0.2](https://github.com/kne-union/fastify-task/releases/tag/1.0.2) in [kne-union/fastify-task](https://github.com/kne-union/fastify-task)
-5. 🎉 Merged PR [#22](https://github.com/kne-union/fastify-task/pull/22) in [kne-union/fastify-task](https://github.com/kne-union/fastify-task)
+1. 🚀 Published release [0.1.0](https://github.com/kne-union/create-collector/releases/tag/0.1.0) in [kne-union/create-collector](https://github.com/kne-union/create-collector)
+2. 🎉 Merged PR [#1](https://github.com/kne-union/create-collector/pull/1) in [kne-union/create-collector](https://github.com/kne-union/create-collector)
+3. 💪 Opened PR [#1](https://github.com/kne-union/create-collector/pull/1) in [kne-union/create-collector](https://github.com/kne-union/create-collector)
+4. 🚀 Published release [2.0.0](https://github.com/kne-union/fastify-account-v2/releases/tag/2.0.0) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
+5. 🎉 Merged PR [#8](https://github.com/kne-union/fastify-account-v2/pull/8) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
 <!--END_SECTION:activity-->
 
 ---
