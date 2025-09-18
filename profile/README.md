@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.1](https://github.com/kne-union/react-liquid-glass/releases/tag/0.1.1) in [kne-union/react-liquid-glass](https://github.com/kne-union/react-liquid-glass)
-2. 🎉 Merged PR [#3](https://github.com/kne-union/react-liquid-glass/pull/3) in [kne-union/react-liquid-glass](https://github.com/kne-union/react-liquid-glass)
-3. 💪 Opened PR [#3](https://github.com/kne-union/react-liquid-glass/pull/3) in [kne-union/react-liquid-glass](https://github.com/kne-union/react-liquid-glass)
-4. 🚀 Published release [0.1.0-alpha.4](https://github.com/kne-union/system-layout/releases/tag/0.1.0-alpha.4) in [kne-union/system-layout](https://github.com/kne-union/system-layout)
-5. 🎉 Merged PR [#5](https://github.com/kne-union/system-layout/pull/5) in [kne-union/system-layout](https://github.com/kne-union/system-layout)
+1. 🎉 Merged PR [#7](https://github.com/kne-union/system-layout/pull/7) in [kne-union/system-layout](https://github.com/kne-union/system-layout)
+2. 💪 Opened PR [#7](https://github.com/kne-union/system-layout/pull/7) in [kne-union/system-layout](https://github.com/kne-union/system-layout)
+3. 🚀 Published release [0.1.1](https://github.com/kne-union/react-liquid-glass/releases/tag/0.1.1) in [kne-union/react-liquid-glass](https://github.com/kne-union/react-liquid-glass)
+4. 🎉 Merged PR [#3](https://github.com/kne-union/react-liquid-glass/pull/3) in [kne-union/react-liquid-glass](https://github.com/kne-union/react-liquid-glass)
+5. 💪 Opened PR [#3](https://github.com/kne-union/react-liquid-glass/pull/3) in [kne-union/react-liquid-glass](https://github.com/kne-union/react-liquid-glass)
 <!--END_SECTION:activity-->
 
 ---
