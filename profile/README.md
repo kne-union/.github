@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/kne-union/fastify-account-v2/pull/10) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
-2. 💪 Opened PR [#10](https://github.com/kne-union/fastify-account-v2/pull/10) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
-3. 🚀 Published release [0.1.24](https://github.com/kne-union/super-select/releases/tag/0.1.24) in [kne-union/super-select](https://github.com/kne-union/super-select)
-4. 🎉 Merged PR [#24](https://github.com/kne-union/super-select/pull/24) in [kne-union/super-select](https://github.com/kne-union/super-select)
-5. 💪 Opened PR [#24](https://github.com/kne-union/super-select/pull/24) in [kne-union/super-select](https://github.com/kne-union/super-select)
+1. 🚀 Published release [2.0.2](https://github.com/kne-union/fastify-account-v2/releases/tag/2.0.2) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
+2. 🎉 Merged PR [#11](https://github.com/kne-union/fastify-account-v2/pull/11) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
+3. 💪 Opened PR [#11](https://github.com/kne-union/fastify-account-v2/pull/11) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
+4. 🎉 Merged PR [#10](https://github.com/kne-union/fastify-account-v2/pull/10) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
+5. 💪 Opened PR [#10](https://github.com/kne-union/fastify-account-v2/pull/10) in [kne-union/fastify-account-v2](https://github.com/kne-union/fastify-account-v2)
 <!--END_SECTION:activity-->
 
 ---
