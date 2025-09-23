@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.4](https://github.com/kne-union/app-children-router/releases/tag/0.1.4) in [kne-union/app-children-router](https://github.com/kne-union/app-children-router)
-2. 🚀 Published release [0.1.14](https://github.com/kne-union/template-libs/releases/tag/0.1.14) in [kne-union/template-libs](https://github.com/kne-union/template-libs)
-3. 🎉 Merged PR [#6](https://github.com/kne-union/app-children-router/pull/6) in [kne-union/app-children-router](https://github.com/kne-union/app-children-router)
-4. 💪 Opened PR [#6](https://github.com/kne-union/app-children-router/pull/6) in [kne-union/app-children-router](https://github.com/kne-union/app-children-router)
-5. 🎉 Merged PR [#16](https://github.com/kne-union/template-libs/pull/16) in [kne-union/template-libs](https://github.com/kne-union/template-libs)
+1. 🚀 Published release [0.1.5](https://github.com/kne-union/app-children-router/releases/tag/0.1.5) in [kne-union/app-children-router](https://github.com/kne-union/app-children-router)
+2. 🎉 Merged PR [#7](https://github.com/kne-union/app-children-router/pull/7) in [kne-union/app-children-router](https://github.com/kne-union/app-children-router)
+3. 💪 Opened PR [#7](https://github.com/kne-union/app-children-router/pull/7) in [kne-union/app-children-router](https://github.com/kne-union/app-children-router)
+4. 🚀 Published release [0.1.4](https://github.com/kne-union/app-children-router/releases/tag/0.1.4) in [kne-union/app-children-router](https://github.com/kne-union/app-children-router)
+5. 🚀 Published release [0.1.14](https://github.com/kne-union/template-libs/releases/tag/0.1.14) in [kne-union/template-libs](https://github.com/kne-union/template-libs)
 <!--END_SECTION:activity-->
 
 ---
