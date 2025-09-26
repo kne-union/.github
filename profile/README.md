@@ -15,11 +15,11 @@
 # ⚡ 最新活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/kne-union/markdown-components-render/pull/9) in [kne-union/markdown-components-render](https://github.com/kne-union/markdown-components-render)
-2. 💪 Opened PR [#9](https://github.com/kne-union/markdown-components-render/pull/9) in [kne-union/markdown-components-render](https://github.com/kne-union/markdown-components-render)
-3. 🚀 Published release [1.1.0](https://github.com/kne-union/axios-fetch/releases/tag/1.1.0) in [kne-union/axios-fetch](https://github.com/kne-union/axios-fetch)
-4. 🎉 Merged PR [#11](https://github.com/kne-union/axios-fetch/pull/11) in [kne-union/axios-fetch](https://github.com/kne-union/axios-fetch)
-5. 💪 Opened PR [#11](https://github.com/kne-union/axios-fetch/pull/11) in [kne-union/axios-fetch](https://github.com/kne-union/axios-fetch)
+1. 🚀 Published release [0.1.8](https://github.com/kne-union/markdown-components-render/releases/tag/0.1.8) in [kne-union/markdown-components-render](https://github.com/kne-union/markdown-components-render)
+2. 🎉 Merged PR [#9](https://github.com/kne-union/markdown-components-render/pull/9) in [kne-union/markdown-components-render](https://github.com/kne-union/markdown-components-render)
+3. 💪 Opened PR [#9](https://github.com/kne-union/markdown-components-render/pull/9) in [kne-union/markdown-components-render](https://github.com/kne-union/markdown-components-render)
+4. 🚀 Published release [1.1.0](https://github.com/kne-union/axios-fetch/releases/tag/1.1.0) in [kne-union/axios-fetch](https://github.com/kne-union/axios-fetch)
+5. 🎉 Merged PR [#11](https://github.com/kne-union/axios-fetch/pull/11) in [kne-union/axios-fetch](https://github.com/kne-union/axios-fetch)
 <!--END_SECTION:activity-->
 
 ---
